@@ -1,0 +1,656 @@
+Customer Location ID,Country/Region,State/Province,City,Postal Code,Factory,Distance (km),Coordinate Source
+1,United States,Texas,Houston,77095,The Other Factory,787.5595809471378,Full postal-code reference
+2,United States,Illinois,Naperville,60540,Secret Factory,204.6861986165091,Full postal-code reference
+3,United States,Pennsylvania,Philadelphia,19143,Wicked Choccy's,1020.8359517350538,Full postal-code reference
+4,United States,Kentucky,Henderson,42420,The Other Factory,370.3104886198539,Full postal-code reference
+5,United States,Georgia,Athens,30605,Wicked Choccy's,295.22044130621083,Full postal-code reference
+6,United States,California,Los Angeles,90049,Lot's O' Nuts,635.642526272574,Full postal-code reference
+7,United States,Texas,Huntsville,77340,The Other Factory,721.9979874419327,Full postal-code reference
+8,United States,Texas,Laredo,78041,The Other Factory,1233.3612513820271,Full postal-code reference
+9,United States,Virginia,Springfield,22153,Wicked Choccy's,819.3460904385018,Full postal-code reference
+10,United States,Delaware,Dover,19901,Wicked Choccy's,935.155860615823,Full postal-code reference
+11,United States,California,San Francisco,94109,Lot's O' Nuts,1108.6374132347648,Full postal-code reference
+12,United States,South Carolina,Mount Pleasant,29464,Wicked Choccy's,146.62558792668824,Full postal-code reference
+13,United States,Ohio,Newark,43055,Secret Factory,703.8344428171737,Full postal-code reference
+14,United States,Louisiana,Bossier City,71111,The Other Factory,447.93247923631196,Full postal-code reference
+15,United States,Pennsylvania,Philadelphia,19140,Wicked Choccy's,1030.9422943977806,Full postal-code reference
+16,United States,Georgia,Roswell,30076,Wicked Choccy's,370.0515129657349,Full postal-code reference
+17,United States,Pennsylvania,Philadelphia,19134,Wicked Choccy's,1030.6468486188114,Full postal-code reference
+18,United States,Oregon,Springfield,97477,Lot's O' Nuts,1579.2202075107502,Full postal-code reference
+19,United States,Arizona,Scottsdale,85254,Lot's O' Nuts,83.52203571579395,Full postal-code reference
+20,United States,Arkansas,Jonesboro,72401,The Other Factory,103.1716235283902,Full postal-code reference
+21,United States,Michigan,Westland,48185,Secret Factory,602.3806789161871,Full postal-code reference
+22,United States,Tennessee,Smyrna,37167,The Other Factory,327.47584243378066,Full postal-code reference
+23,United States,Florida,Miami,33180,Wicked Choccy's,686.3290602231427,Full postal-code reference
+24,Canada,Ontario,Toronto,M7A,Secret Factory,947.0275444229862,Postal-prefix estimate
+25,United States,Indiana,Lafayette,47905,Secret Factory,332.3013218352312,Full postal-code reference
+26,United States,Nevada,Las Vegas,89115,Lot's O' Nuts,478.1729049523197,Full postal-code reference
+27,United States,South Dakota,Rapid City,57701,Sugar Shack,698.5072529061955,Full postal-code reference
+28,United States,Virginia,Alexandria,22304,Wicked Choccy's,830.8055136935817,Full postal-code reference
+29,United States,California,San Diego,92037,Lot's O' Nuts,512.1683995477974,Full postal-code reference
+30,United States,New York,New York City,10024,Wicked Choccy's,1157.8641373845687,Full postal-code reference
+31,United States,Michigan,Detroit,48234,Secret Factory,631.5553443416122,Full postal-code reference
+32,United States,California,Mission Viejo,92691,Lot's O' Nuts,554.0318870023834,Full postal-code reference
+33,United States,Wisconsin,Green Bay,54302,Secret Factory,399.7351849775804,Full postal-code reference
+34,United States,Florida,Saint Petersburg,33710,Wicked Choccy's,501.99333050264624,Full postal-code reference
+35,United States,Washington,Seattle,98105,Lot's O' Nuts,1866.8762561708206,Full postal-code reference
+36,United States,California,Escondido,92025,Lot's O' Nuts,495.059601209745,Full postal-code reference
+37,United States,California,San Diego,92024,Lot's O' Nuts,513.4716863913586,Full postal-code reference
+38,United States,Illinois,Romeoville,60441,Secret Factory,209.99470342672916,Full postal-code reference
+39,United States,Virginia,Chesapeake,23320,Wicked Choccy's,682.6883311037429,Full postal-code reference
+40,United States,New Jersey,Linden,07036,Wicked Choccy's,1130.5864314859593,Full postal-code reference
+41,United States,Nevada,North Las Vegas,89031,Lot's O' Nuts,487.90861663231976,Full postal-code reference
+42,United States,Missouri,Columbia,65203,Secret Factory,318.3000761998381,Full postal-code reference
+43,United States,California,Concord,94521,Lot's O' Nuts,1082.506877926357,Full postal-code reference
+44,United States,Washington,Seattle,98103,Lot's O' Nuts,1869.4276162126782,Full postal-code reference
+45,United States,Texas,Dallas,75220,The Other Factory,682.5701365531755,Full postal-code reference
+46,United States,Illinois,Chicago,60653,Secret Factory,248.88289268770112,Full postal-code reference
+47,United States,Texas,Lubbock,79424,Lot's O' Nuts,917.3367686973938,Full postal-code reference
+48,United States,Texas,Arlington,76017,The Other Factory,717.5978342285485,Full postal-code reference
+49,United States,Indiana,Richmond,47374,Secret Factory,510.99524148103745,Full postal-code reference
+50,United States,Illinois,Woodstock,60098,Secret Factory,200.41856058635747,Full postal-code reference
+51,United States,California,Moreno Valley,92553,Lot's O' Nuts,520.3026422538528,Full postal-code reference
+52,United States,Texas,El Paso,79907,Lot's O' Nuts,527.511195032106,Full postal-code reference
+53,United States,Oregon,Medford,97504,Lot's O' Nuts,1431.5248934006906,Full postal-code reference
+54,United States,Ohio,Columbus,43229,Secret Factory,656.9184236737566,Full postal-code reference
+55,United States,Illinois,Elmhurst,60126,Secret Factory,223.56338211866034,Full postal-code reference
+56,United States,Washington,Seattle,98115,Lot's O' Nuts,1868.6965252985842,Full postal-code reference
+57,United States,Texas,Houston,77036,The Other Factory,797.4608988529266,Full postal-code reference
+58,United States,New York,New York City,10035,Wicked Choccy's,1161.1171452394792,Full postal-code reference
+59,United States,New York,New York City,10009,Wicked Choccy's,1152.2624782644598,Full postal-code reference
+60,United States,Pennsylvania,Philadelphia,19120,Wicked Choccy's,1034.167575463403,Full postal-code reference
+61,United States,North Carolina,Wilmington,28403,Wicked Choccy's,381.9202886182477,Full postal-code reference
+62,United States,Florida,Margate,33063,Wicked Choccy's,651.5130698381387,Full postal-code reference
+63,United States,South Carolina,Columbia,29203,Wicked Choccy's,221.05552289747,Full postal-code reference
+64,United States,New York,Yonkers,10701,Wicked Choccy's,1177.6705892133705,Full postal-code reference
+65,United States,Washington,Des Moines,98198,Lot's O' Nuts,1841.909526462517,Full postal-code reference
+66,United States,Colorado,Denver,80219,Lot's O' Nuts,968.0048752450252,Full postal-code reference
+67,United States,Michigan,Royal Oak,48073,Secret Factory,623.6495952637057,Full postal-code reference
+68,United States,Kentucky,Richmond,40475,The Other Factory,586.158875954323,Full postal-code reference
+69,United States,California,Roseville,95661,Lot's O' Nuts,1072.3748532048849,Full postal-code reference
+70,Canada,Alberta,Calgary,T2C,Sugar Shack,1320.4202032242495,Postal-prefix estimate
+71,United States,California,Huntington Beach,92646,Lot's O' Nuts,582.8917951984511,Full postal-code reference
+72,United States,Utah,Logan,84321,Lot's O' Nuts,985.7666682636828,Full postal-code reference
+73,United States,Florida,Jacksonville,32216,Wicked Choccy's,205.3361189334909,Full postal-code reference
+74,United States,Florida,Tampa,33614,Wicked Choccy's,472.28747377773567,Full postal-code reference
+75,United States,North Carolina,Raleigh,27604,Wicked Choccy's,477.52054591401065,Full postal-code reference
+76,United States,Minnesota,Lakeville,55044,Secret Factory,420.32633466568006,Full postal-code reference
+77,United States,Mississippi,Jackson,39212,The Other Factory,320.6989852205471,Full postal-code reference
+78,United States,Texas,Dallas,75217,The Other Factory,673.2235121058297,Full postal-code reference
+79,United States,California,San Francisco,94110,Lot's O' Nuts,1106.3738874819442,Full postal-code reference
+80,United States,California,Burbank,91505,Lot's O' Nuts,626.0352679032397,Full postal-code reference
+81,United States,Florida,Lakeland,33801,Wicked Choccy's,456.4130115201419,Full postal-code reference
+82,United States,Tennessee,Knoxville,37918,Wicked Choccy's,513.1772125488907,Full postal-code reference
+83,United States,Ohio,Hamilton,45011,Secret Factory,559.4383040992354,Full postal-code reference
+84,United States,North Carolina,Asheville,28806,Wicked Choccy's,414.1820232968917,Full postal-code reference
+85,United States,Arizona,Tucson,85705,Lot's O' Nuts,100.16580095381788,Full postal-code reference
+86,United States,Indiana,Portage,46368,Secret Factory,282.57375717028225,Full postal-code reference
+87,United States,North Carolina,Greensboro,27405,Wicked Choccy's,465.80607702877717,Full postal-code reference
+88,United States,Florida,Delray Beach,33445,Wicked Choccy's,632.1120256375751,Full postal-code reference
+89,United States,California,Los Angeles,90036,Lot's O' Nuts,624.4070257886133,Full postal-code reference
+90,United States,California,Fresno,93727,Lot's O' Nuts,842.3919909924767,Full postal-code reference
+91,United States,California,San Francisco,94122,Lot's O' Nuts,1112.179052662521,Full postal-code reference
+92,United States,California,Pomona,91767,Lot's O' Nuts,569.2506263744762,Full postal-code reference
+93,United States,Ohio,Springfield,45503,Secret Factory,595.425897390198,Full postal-code reference
+94,United States,Iowa,Des Moines,50315,Secret Factory,254.55199945444545,Full postal-code reference
+95,United States,New Mexico,Albuquerque,87105,Lot's O' Nuts,526.4214547672839,Full postal-code reference
+96,United States,Texas,Plano,75023,The Other Factory,663.7202098699802,Full postal-code reference
+97,United States,Texas,Brownsville,78521,The Other Factory,1248.111983603062,Full postal-code reference
+98,United States,New York,Long Beach,11561,Wicked Choccy's,1155.9560419521906,Full postal-code reference
+99,United States,Minnesota,Apple Valley,55124,Secret Factory,425.1212547697514,Full postal-code reference
+100,United States,Illinois,Chicago,60610,Secret Factory,248.73889135731037,Full postal-code reference
+101,United States,California,Vallejo,94591,Lot's O' Nuts,1108.2536290465302,Full postal-code reference
+102,United States,Massachusetts,Revere,02151,Wicked Choccy's,1453.022139071352,Full postal-code reference
+103,United States,Virginia,Virginia Beach,23464,Wicked Choccy's,691.5859673800895,Full postal-code reference
+104,United States,California,Los Angeles,90008,Lot's O' Nuts,622.5356522588527,Full postal-code reference
+105,United States,Michigan,Detroit,48205,Secret Factory,636.5748254656055,Full postal-code reference
+106,United States,Louisiana,Lafayette,70506,The Other Factory,580.0382902300654,Full postal-code reference
+107,United States,Michigan,Dearborn Heights,48127,Secret Factory,610.3862963120026,Full postal-code reference
+108,United States,Illinois,Decatur,62521,Secret Factory,224.89619057371237,Full postal-code reference
+109,United States,California,Los Angeles,90004,Lot's O' Nuts,620.3406340458051,Full postal-code reference
+110,United States,Pennsylvania,Lancaster,17602,Wicked Choccy's,984.165555264735,Full postal-code reference
+111,United States,Alabama,Mobile,36608,The Other Factory,517.4534394608797,Full postal-code reference
+112,United States,Georgia,Marietta,30062,Wicked Choccy's,380.55066972880206,Full postal-code reference
+113,United States,Alabama,Decatur,35601,The Other Factory,278.3861022434746,Full postal-code reference
+114,United States,Ohio,Toledo,43615,Secret Factory,574.0729454801607,Full postal-code reference
+115,United States,Arizona,Glendale,85301,Lot's O' Nuts,81.5888104160825,Full postal-code reference
+116,United States,Arizona,Chandler,85224,Lot's O' Nuts,50.62043948051593,Full postal-code reference
+117,United States,Idaho,Lewiston,83501,Lot's O' Nuts,1560.4964925905424,Full postal-code reference
+118,United States,Montana,Great Falls,59405,Sugar Shack,1125.7134657760282,Full postal-code reference
+119,United States,Texas,Austin,78745,The Other Factory,913.1001325989313,Full postal-code reference
+120,United States,California,Redondo Beach,90278,Lot's O' Nuts,622.8337092923064,Full postal-code reference
+121,United States,California,Lodi,95240,Lot's O' Nuts,1036.9491482087685,Full postal-code reference
+122,United States,Indiana,Bloomington,47401,Secret Factory,429.0668593708294,Full postal-code reference
+123,United States,Maryland,Baltimore,21215,Wicked Choccy's,900.6120358091136,Full postal-code reference
+124,United States,California,San Jose,95123,Lot's O' Nuts,1035.6177084356598,Full postal-code reference
+125,United States,Virginia,Arlington,22204,Wicked Choccy's,836.014433796505,Full postal-code reference
+126,United States,California,Los Angeles,90045,Lot's O' Nuts,626.4631289989711,Full postal-code reference
+127,United States,Texas,Houston,77070,The Other Factory,776.2257124705444,Full postal-code reference
+128,United States,New York,Troy,12180,Wicked Choccy's,1352.4078914420097,Full postal-code reference
+129,United States,California,San Gabriel,91776,Lot's O' Nuts,601.8478690689374,Full postal-code reference
+130,United States,New York,Jamestown,14701,Secret Factory,940.9729639482289,Full postal-code reference
+131,United States,Tennessee,Memphis,38109,The Other Factory,12.484194382348983,Full postal-code reference
+132,United States,Louisiana,Lake Charles,70601,The Other Factory,621.3435794588652,Full postal-code reference
+133,United States,New York,Rochester,14609,Secret Factory,1085.0938660741363,Full postal-code reference
+134,United States,Kentucky,Louisville,40214,The Other Factory,504.2461867072033,Full postal-code reference
+135,United States,Wisconsin,Appleton,54915,Secret Factory,359.28167391551784,Full postal-code reference
+136,United States,Connecticut,Middletown,06457,Wicked Choccy's,1292.1947757463258,Full postal-code reference
+137,United States,Michigan,Jackson,49201,Secret Factory,519.4175468815447,Full postal-code reference
+138,United States,Texas,San Antonio,78207,The Other Factory,1022.9303907052208,Full postal-code reference
+139,United States,Illinois,Freeport,61032,Secret Factory,122.20108879819784,Full postal-code reference
+140,United States,Massachusetts,Lawrence,01841,Wicked Choccy's,1469.6743590716335,Full postal-code reference
+141,Canada,Ontario,Toronto,M3C,Secret Factory,952.1942788382183,Postal-prefix estimate
+142,United States,Washington,Kent,98031,Lot's O' Nuts,1836.6128750796042,Full postal-code reference
+143,United States,Texas,Fort Worth,76106,The Other Factory,728.1216232325913,Full postal-code reference
+144,United States,New York,Watertown,13601,Secret Factory,1228.0031880291945,Full postal-code reference
+145,United States,Wisconsin,Milwaukee,53209,Secret Factory,284.50630071206,Full postal-code reference
+146,United States,Massachusetts,Franklin,02038,Wicked Choccy's,1404.5163387909654,Full postal-code reference
+147,United States,Florida,Hialeah,33012,Wicked Choccy's,694.781236258232,Full postal-code reference
+148,United States,Utah,West Jordan,84084,Lot's O' Nuts,861.2216699531735,Full postal-code reference
+149,United States,California,Oakland,94601,Lot's O' Nuts,1092.205328409572,Full postal-code reference
+150,United States,Wisconsin,Eau Claire,54703,Secret Factory,384.5604885575089,Full postal-code reference
+151,United States,Ohio,Akron,44312,Secret Factory,764.1656614622863,Full postal-code reference
+152,United States,Ohio,Cleveland,44105,Secret Factory,745.322819827687,Full postal-code reference
+153,United States,Michigan,Midland,48640,Secret Factory,570.3654055038854,Full postal-code reference
+154,United States,New Hampshire,Dover,03820,Wicked Choccy's,1525.1407807992166,Full postal-code reference
+155,United States,Texas,San Marcos,78666,The Other Factory,947.2292723818591,Full postal-code reference
+156,Canada,British Columbia,Vancouver,V6Z,Sugar Shack,1971.153684330943,Postal-prefix estimate
+157,Canada,Quebec,Montreal,H1A,Secret Factory,1449.7817246139957,Postal-prefix estimate
+158,United States,Washington,Bellevue,98006,Lot's O' Nuts,1851.4276261982377,Full postal-code reference
+159,United States,Illinois,Chicago,60623,Secret Factory,240.97237602398084,Full postal-code reference
+160,United States,Utah,Murray,84107,Lot's O' Nuts,864.598633457338,Full postal-code reference
+161,United States,California,San Diego,92105,Lot's O' Nuts,497.9871961983531,Full postal-code reference
+162,United States,Illinois,Buffalo Grove,60089,Secret Factory,229.7226410760259,Full postal-code reference
+163,United States,Virginia,Richmond,23223,Wicked Choccy's,695.4410364289649,Full postal-code reference
+164,United States,Arkansas,Little Rock,72209,The Other Factory,222.78311055293324,Full postal-code reference
+165,United States,New Jersey,Lakewood,08701,Wicked Choccy's,1083.5225363350355,Full postal-code reference
+166,United States,Utah,Orem,84057,Lot's O' Nuts,826.3712918650399,Full postal-code reference
+167,United States,Illinois,Aurora,60505,Secret Factory,191.7681395849623,Full postal-code reference
+168,United States,Illinois,Peoria,61604,Secret Factory,113.13870062132719,Full postal-code reference
+169,United States,Tennessee,Bristol,37620,Wicked Choccy's,509.516601381817,Full postal-code reference
+170,United States,California,Los Angeles,90032,Lot's O' Nuts,608.9090879822011,Full postal-code reference
+171,United States,Virginia,Harrisonburg,22801,Wicked Choccy's,736.5756595598996,Full postal-code reference
+172,United States,Indiana,Mishawaka,46544,Secret Factory,367.08663265585227,Full postal-code reference
+173,United States,New York,Hempstead,11550,Wicked Choccy's,1168.4672823840253,Full postal-code reference
+174,United States,Delaware,Newark,19711,Wicked Choccy's,974.8190726581578,Full postal-code reference
+175,Canada,Nova Scotia,Halifax,B3H,Wicked Choccy's,2060.514658621013,Postal-prefix estimate
+176,United States,Oklahoma,Lawton,73505,The Other Factory,775.7798290386509,Full postal-code reference
+177,United States,Virginia,Waynesboro,22980,Wicked Choccy's,696.2300554994109,Full postal-code reference
+178,United States,Connecticut,Meriden,06450,Wicked Choccy's,1283.2651764143213,Full postal-code reference
+179,United States,Colorado,Pueblo,81001,Lot's O' Nuts,884.486311299763,Full postal-code reference
+180,United States,Pennsylvania,Chester,19013,Wicked Choccy's,1005.2264749066638,Full postal-code reference
+181,United States,Arizona,Phoenix,85023,Lot's O' Nuts,89.36448725016712,Full postal-code reference
+182,United States,Minnesota,Minneapolis,55407,Sugar Shack,418.5746078460534,Full postal-code reference
+183,United States,Colorado,Louisville,80027,Lot's O' Nuts,986.1373876523203,Full postal-code reference
+184,United States,North Carolina,Concord,28027,Wicked Choccy's,373.7172544139069,Full postal-code reference
+185,United States,Oregon,Salem,97301,Lot's O' Nuts,1653.4451619744777,Full postal-code reference
+186,United States,Mississippi,Southaven,38671,The Other Factory,15.819845374198147,Full postal-code reference
+187,United States,Ohio,Cincinnati,45231,Secret Factory,565.9844567838071,Full postal-code reference
+188,United States,New York,New York City,10011,Wicked Choccy's,1152.5474019021071,Full postal-code reference
+189,United States,Florida,Deltona,32725,Wicked Choccy's,353.6248628969941,Full postal-code reference
+190,United States,New Jersey,Plainfield,07060,Wicked Choccy's,1121.111170863699,Full postal-code reference
+191,United States,Colorado,Aurora,80013,Lot's O' Nuts,978.8884494328055,Full postal-code reference
+192,United States,Florida,Palm Coast,32137,Wicked Choccy's,280.45266548440856,Full postal-code reference
+193,United States,California,El Cajon,92020,Lot's O' Nuts,485.73119997126247,Full postal-code reference
+194,United States,New York,Buffalo,14215,Secret Factory,981.542551108565,Full postal-code reference
+195,United States,New Jersey,Hackensack,07601,Wicked Choccy's,1163.5356371453584,Full postal-code reference
+196,United States,New York,Niagara Falls,14304,Secret Factory,971.1047662759154,Full postal-code reference
+197,United States,Texas,League City,77573,The Other Factory,786.942138997163,Full postal-code reference
+198,United States,South Dakota,Sioux Falls,57103,Sugar Shack,510.9647520341369,Full postal-code reference
+199,United States,New York,New Rochelle,10801,Wicked Choccy's,1178.878922062325,Full postal-code reference
+200,United States,Connecticut,Bristol,06010,Wicked Choccy's,1289.9007380952823,Full postal-code reference
+201,United States,California,Riverside,92503,Lot's O' Nuts,540.6821812359741,Full postal-code reference
+202,United States,Nebraska,Omaha,68104,Secret Factory,453.7421394971835,Full postal-code reference
+203,United States,Georgia,Atlanta,30318,Wicked Choccy's,366.47538017373034,Full postal-code reference
+204,United States,Utah,Draper,84020,Lot's O' Nuts,847.665950284164,Full postal-code reference
+205,United States,Florida,Apopka,32712,Wicked Choccy's,376.29478557151253,Full postal-code reference
+206,United States,North Carolina,Charlotte,28205,Wicked Choccy's,350.67985387279236,Full postal-code reference
+207,United States,Missouri,Springfield,65807,The Other Factory,376.4345115915226,Full postal-code reference
+208,United States,Maine,Bangor,04401,Wicked Choccy's,1772.1634770732114,Full postal-code reference
+209,United States,Utah,Pleasant Grove,84062,Lot's O' Nuts,832.8676449658984,Full postal-code reference
+210,United States,Texas,Texas City,77590,The Other Factory,787.8856461917824,Full postal-code reference
+211,United States,Michigan,Trenton,48183,Secret Factory,613.7804901398686,Full postal-code reference
+212,United States,California,Vacaville,95687,Lot's O' Nuts,1102.1969014711772,Full postal-code reference
+213,Canada,Ontario,Toronto,M5H,Secret Factory,947.2935390375949,Postal-prefix estimate
+214,United States,Georgia,Woodstock,30188,Wicked Choccy's,390.6625762315616,Full postal-code reference
+215,United States,Florida,Hollywood,33021,Wicked Choccy's,678.8574133638249,Full postal-code reference
+216,United States,Connecticut,Fairfield,06824,Wicked Choccy's,1227.354604786286,Full postal-code reference
+217,United States,Texas,Dallas,75081,The Other Factory,665.7269014528978,Full postal-code reference
+218,United States,Georgia,Columbus,31907,Wicked Choccy's,360.9078763055147,Full postal-code reference
+219,Canada,Quebec,Montreal,H1B,Secret Factory,1448.7281773640639,Postal-prefix estimate
+220,United States,Virginia,Hampton,23666,Wicked Choccy's,699.0440746935635,Full postal-code reference
+221,United States,Ohio,Lakewood,44107,Secret Factory,729.9289478484286,Full postal-code reference
+222,United States,Missouri,Saint Charles,63301,Secret Factory,294.1458683650738,Full postal-code reference
+223,United States,Florida,North Miami,33161,Wicked Choccy's,693.189231655213,Full postal-code reference
+224,United States,Michigan,Grand Rapids,49505,Secret Factory,441.92837858106986,Full postal-code reference
+225,United States,New York,Oceanside,11572,Wicked Choccy's,1161.3698924386044,Full postal-code reference
+226,United States,Montana,Billings,59102,Sugar Shack,974.6227370593723,Full postal-code reference
+227,United States,Kentucky,Owensboro,42301,The Other Factory,386.2472086949069,Full postal-code reference
+228,United States,Florida,Miami,33178,Wicked Choccy's,699.9522087316053,Full postal-code reference
+229,United States,New Mexico,Santa Fe,87505,Lot's O' Nuts,621.7662580233928,Full postal-code reference
+230,United States,Arkansas,Fayetteville,72701,The Other Factory,392.18186448080894,Full postal-code reference
+231,United States,Ohio,Bowling Green,43402,Secret Factory,576.520538003902,Full postal-code reference
+232,United States,Oklahoma,Tulsa,74133,The Other Factory,544.52624947252,Full postal-code reference
+233,United States,Illinois,Oswego,60543,Secret Factory,186.59957326354268,Full postal-code reference
+234,United States,California,Santa Clara,95051,Lot's O' Nuts,1052.7668103986373,Full postal-code reference
+235,United States,Washington,Pasco,99301,Lot's O' Nuts,1612.1690981701647,Full postal-code reference
+236,United States,Texas,Tyler,75701,The Other Factory,581.7325440090935,Full postal-code reference
+237,United States,Georgia,Macon,31204,Wicked Choccy's,257.3395219305764,Full postal-code reference
+238,United States,Massachusetts,Lowell,01852,Wicked Choccy's,1456.227116038853,Full postal-code reference
+239,United States,Ohio,Lancaster,43130,Secret Factory,699.0214004192192,Full postal-code reference
+240,United States,Michigan,Detroit,48227,Secret Factory,618.6702088040529,Full postal-code reference
+241,United States,North Carolina,Greenville,27834,Wicked Choccy's,520.8544586115845,Full postal-code reference
+242,United States,Oregon,Gresham,97030,Lot's O' Nuts,1674.7433704020602,Full postal-code reference
+243,United States,New Jersey,Clifton,07011,Wicked Choccy's,1158.2733981703989,Full postal-code reference
+244,Canada,Quebec,Montreal,H1C,Secret Factory,1444.9975684842016,Postal-prefix estimate
+245,United States,California,Oxnard,93030,Lot's O' Nuts,702.0457904845607,Full postal-code reference
+246,United States,Kansas,Olathe,66062,Secret Factory,457.9815407431655,Full postal-code reference
+247,United States,North Carolina,Cary,27511,Wicked Choccy's,462.11254375929303,Full postal-code reference
+248,United States,Ohio,Fairfield,45014,Secret Factory,561.3574758105485,Full postal-code reference
+249,United States,Texas,Odessa,79762,Lot's O' Nuts,890.46458231336,Full postal-code reference
+250,United States,Arizona,Tempe,85281,Lot's O' Nuts,61.90914583669003,Full postal-code reference
+251,United States,Texas,Corpus Christi,78415,The Other Factory,1082.484845330904,Full postal-code reference
+252,United States,California,Chula Vista,91911,Lot's O' Nuts,495.4819403927575,Full postal-code reference
+253,United States,California,Long Beach,90805,Lot's O' Nuts,605.2369333543684,Full postal-code reference
+254,United States,Maryland,Columbia,21044,Wicked Choccy's,879.8605630093878,Full postal-code reference
+255,United States,Illinois,Bloomington,61701,Secret Factory,170.58978528386248,Full postal-code reference
+256,Canada,Ontario,Toronto,M2N,Secret Factory,948.0546629306656,Postal-prefix estimate
+257,United States,Texas,Garland,75043,The Other Factory,660.672691004911,Full postal-code reference
+258,United States,Florida,Boca Raton,33433,Wicked Choccy's,643.5003135344659,Full postal-code reference
+259,United States,Texas,Houston,77041,The Other Factory,786.2343362311138,Full postal-code reference
+260,United States,Texas,Mesquite,75150,The Other Factory,665.17748004671,Full postal-code reference
+261,United States,North Carolina,Fayetteville,28314,Wicked Choccy's,383.52117211243257,Full postal-code reference
+262,United States,Tennessee,Clarksville,37042,The Other Factory,282.04882529419325,Full postal-code reference
+263,United States,Florida,Boynton Beach,33437,Wicked Choccy's,623.3572197697001,Full postal-code reference
+264,United States,Nevada,Reno,89502,Lot's O' Nuts,1027.5259109690057,Full postal-code reference
+265,United States,Illinois,Evanston,60201,Secret Factory,247.58830926667596,Full postal-code reference
+266,United States,North Carolina,Durham,27707,Wicked Choccy's,475.68922000021115,Full postal-code reference
+267,Canada,Alberta,Calgary,T1Y,Sugar Shack,1319.3017758329754,Postal-prefix estimate
+268,Canada,Alberta,Edmonton,T5A,Sugar Shack,1349.6712268169185,Postal-prefix estimate
+269,United States,Indiana,Indianapolis,46203,Secret Factory,420.5119629474497,Full postal-code reference
+270,United States,North Carolina,Jacksonville,28540,Wicked Choccy's,448.07553575078043,Full postal-code reference
+271,United States,California,Manteca,95336,Lot's O' Nuts,1016.2906141025974,Full postal-code reference
+272,United States,California,Pasadena,91104,Lot's O' Nuts,606.3542200092055,Full postal-code reference
+273,United States,Washington,Edmonds,98026,Lot's O' Nuts,1884.0795951741823,Full postal-code reference
+274,United States,New York,Mount Vernon,10550,Wicked Choccy's,1175.625039812032,Full postal-code reference
+275,United States,Massachusetts,Everett,02149,Wicked Choccy's,1450.3184807679215,Full postal-code reference
+276,United States,New Hampshire,Concord,03301,Wicked Choccy's,1495.5711423977896,Full postal-code reference
+277,United States,Ohio,Parma,44134,Secret Factory,738.6188957061215,Full postal-code reference
+278,United States,Texas,Beaumont,77705,The Other Factory,686.8357854623791,Full postal-code reference
+279,United States,Alabama,Montgomery,36116,The Other Factory,464.9157464059673,Full postal-code reference
+280,United States,Arkansas,Texarkana,71854,The Other Factory,404.85031255874964,Full postal-code reference
+281,United States,California,Lakewood,90712,Lot's O' Nuts,601.8919609128211,Full postal-code reference
+282,Canada,British Columbia,Vancouver,V6G,Sugar Shack,1971.7474309616077,Postal-prefix estimate
+283,United States,Virginia,Newport News,23602,Wicked Choccy's,698.8706454222621,Full postal-code reference
+284,United States,California,Rancho Cucamonga,91730,Lot's O' Nuts,557.0682114169384,Full postal-code reference
+285,United States,South Carolina,Rock Hill,29730,Wicked Choccy's,315.75147406738427,Full postal-code reference
+286,United States,Florida,Fort Lauderdale,33311,Wicked Choccy's,665.7970903466801,Full postal-code reference
+287,United States,Kansas,Garden City,67846,Secret Factory,960.7225307544885,Full postal-code reference
+288,United States,Indiana,Columbus,47201,Secret Factory,465.0730638692634,Full postal-code reference
+289,United States,Rhode Island,Cranston,02920,Wicked Choccy's,1374.2581873298366,Full postal-code reference
+290,United States,Ohio,Lorain,44052,Secret Factory,699.337356760387,Full postal-code reference
+291,United States,Arizona,Avondale,85323,Lot's O' Nuts,81.3367740379927,Full postal-code reference
+292,United States,Ohio,Mason,45040,Secret Factory,578.8700509844441,Full postal-code reference
+293,United States,New Jersey,Orange,07050,Wicked Choccy's,1143.788353676007,Full postal-code reference
+294,United States,Oregon,Portland,97206,Lot's O' Nuts,1680.2490581970917,Full postal-code reference
+295,United States,Ohio,Medina,44256,Secret Factory,727.9230842416637,Full postal-code reference
+296,United States,Texas,Irving,75061,The Other Factory,693.0664072967683,Full postal-code reference
+297,United States,Tennessee,Nashville,37211,The Other Factory,312.19137925516304,Full postal-code reference
+298,United States,Wisconsin,Wausau,54401,Secret Factory,397.43915999424735,Full postal-code reference
+299,United States,California,Redding,96003,Lot's O' Nuts,1275.3764686074749,Full postal-code reference
+300,United States,Pennsylvania,Reading,19601,Wicked Choccy's,1028.8109903779468,Full postal-code reference
+301,United States,Wisconsin,Madison,53711,Secret Factory,199.0487082178119,Full postal-code reference
+302,United States,Texas,Carrollton,75007,The Other Factory,678.450828768345,Full postal-code reference
+303,United States,Texas,Pasadena,77506,The Other Factory,776.6372893922319,Full postal-code reference
+304,United States,Tennessee,Johnson City,37604,Wicked Choccy's,485.6190328883233,Full postal-code reference
+305,United States,Kansas,Manhattan,66502,Secret Factory,568.3635306621587,Full postal-code reference
+306,United States,Minnesota,Moorhead,56560,Sugar Shack,145.72764418505608,Full postal-code reference
+307,United States,Texas,Cedar Hill,75104,The Other Factory,702.3906782653045,Full postal-code reference
+308,United States,Illinois,Des Plaines,60016,Secret Factory,232.1000834030261,Full postal-code reference
+309,United States,Wisconsin,Franklin,53132,Secret Factory,265.65872639299334,Full postal-code reference
+310,United States,Utah,Provo,84604,Lot's O' Nuts,820.5478778419406,Full postal-code reference
+311,United States,Delaware,Wilmington,19805,Wicked Choccy's,985.7523813234944,Full postal-code reference
+312,United States,Utah,Salt Lake City,84106,Lot's O' Nuts,869.99068805315,Full postal-code reference
+313,United States,Minnesota,Coon Rapids,55433,Sugar Shack,394.5064427952043,Full postal-code reference
+314,United States,Louisiana,Monroe,71203,The Other Factory,343.35580531488824,Full postal-code reference
+315,United States,Illinois,Bolingbrook,60440,Secret Factory,208.03121433470994,Full postal-code reference
+316,United States,California,Sacramento,95823,Lot's O' Nuts,1071.9252856014193,Full postal-code reference
+317,United States,Missouri,Saint Louis,63116,Secret Factory,319.60863830991525,Full postal-code reference
+318,Canada,Newfoundland and Labrador,St. John's,A0A,Wicked Choccy's,2917.6448436570163,Postal-prefix estimate
+319,United States,Rhode Island,Woonsocket,02895,Wicked Choccy's,1389.2176753871445,Full postal-code reference
+320,United States,California,Brentwood,94513,Lot's O' Nuts,1059.1978068480278,Full postal-code reference
+321,United States,New York,Utica,13501,Secret Factory,1273.064406854693,Full postal-code reference
+322,United States,Oregon,Tigard,97224,Lot's O' Nuts,1683.3960848890538,Full postal-code reference
+323,United States,New York,Freeport,11520,Wicked Choccy's,1165.5145283658192,Full postal-code reference
+324,United States,Illinois,Skokie,60076,Secret Factory,243.9926047710295,Full postal-code reference
+325,United States,Florida,Orlando,32839,Wicked Choccy's,400.266171760953,Full postal-code reference
+326,United States,Maryland,Clinton,20735,Wicked Choccy's,833.6450619810735,Full postal-code reference
+327,United States,Georgia,Sandy Springs,30328,Wicked Choccy's,371.14552988791735,Full postal-code reference
+328,Canada,New Brunswick,Moncton,E1A,Wicked Choccy's,2094.5459691346564,Postal-prefix estimate
+329,United States,Oklahoma,Oklahoma City,73120,The Other Factory,690.3830403439672,Full postal-code reference
+330,Canada,British Columbia,Vancouver,V6B,Sugar Shack,1970.1984996086446,Postal-prefix estimate
+331,United States,Arizona,Gilbert,85234,Lot's O' Nuts,52.365056347465334,Full postal-code reference
+332,United States,Washington,Olympia,98502,Lot's O' Nuts,1846.4857883117647,Full postal-code reference
+333,United States,Arizona,Mesa,85204,Lot's O' Nuts,57.556942435120696,Full postal-code reference
+334,United States,Idaho,Caldwell,83605,Lot's O' Nuts,1273.1079209183845,Full postal-code reference
+335,United States,Ohio,Marion,43302,Secret Factory,631.1249780162707,Full postal-code reference
+336,United States,Alabama,Florence,35630,The Other Factory,213.33496611011202,Full postal-code reference
+337,United States,Tennessee,Columbia,38401,The Other Factory,271.6556954746037,Full postal-code reference
+338,United States,Texas,Grand Prairie,75051,The Other Factory,701.9851343750325,Full postal-code reference
+339,United States,Colorado,Thornton,80229,Lot's O' Nuts,988.690525704281,Full postal-code reference
+340,Canada,British Columbia,Vancouver,V5K,Sugar Shack,1965.0515095979877,Postal-prefix estimate
+341,United States,Texas,Port Arthur,77642,The Other Factory,686.4417843218438,Full postal-code reference
+342,United States,Colorado,Colorado Springs,80906,Lot's O' Nuts,907.1168300979322,Full postal-code reference
+343,United States,Massachusetts,Beverly,01915,Wicked Choccy's,1472.3142593238906,Full postal-code reference
+344,United States,California,Anaheim,92804,Lot's O' Nuts,585.570234967765,Full postal-code reference
+345,United States,Illinois,Saint Charles,60174,Secret Factory,194.78499308490947,Full postal-code reference
+346,United States,Ohio,Kent,44240,Secret Factory,770.2651087033322,Full postal-code reference
+347,United States,Minnesota,Cottage Grove,55016,Secret Factory,422.71158277496716,Full postal-code reference
+348,Canada,Quebec,Quebec City,G1B,Secret Factory,1652.299694302942,Postal-prefix estimate
+349,United States,Michigan,Taylor,48180,Secret Factory,610.6794758350778,Full postal-code reference
+350,Canada,Prince Edward Island,Charlottetown,C0A,Wicked Choccy's,2206.459460834363,Postal-prefix estimate
+351,United States,Rhode Island,Providence,02908,Wicked Choccy's,1381.3684947061797,Full postal-code reference
+352,United States,Texas,Baytown,77520,The Other Factory,758.9674669492787,Full postal-code reference
+353,United States,Minnesota,Woodbury,55125,Secret Factory,431.6371092641788,Full postal-code reference
+354,United States,Illinois,Park Ridge,60068,Secret Factory,234.61471486045477,Full postal-code reference
+355,United States,Tennessee,Bartlett,38134,The Other Factory,12.742678983162198,Full postal-code reference
+356,United States,Montana,Bozeman,59715,Sugar Shack,1159.657991560907,Full postal-code reference
+357,United States,Florida,West Palm Beach,33407,Wicked Choccy's,600.4388868160213,Full postal-code reference
+358,United States,New York,Rome,13440,Secret Factory,1256.267126719825,Full postal-code reference
+359,United States,Virginia,Suffolk,23434,Wicked Choccy's,661.56533443805,Full postal-code reference
+360,United States,Wisconsin,Kenosha,53142,Secret Factory,254.573797821661,Full postal-code reference
+361,United States,New Jersey,Perth Amboy,08861,Wicked Choccy's,1118.8944696084088,Full postal-code reference
+362,United States,Arkansas,Hot Springs,71901,The Other Factory,280.5022787986533,Full postal-code reference
+363,United States,New Mexico,Las Cruces,88001,Lot's O' Nuts,474.3184732636869,Full postal-code reference
+364,United States,Michigan,Sterling Heights,48310,Secret Factory,631.4559381851263,Full postal-code reference
+365,United States,Massachusetts,Leominster,01453,Wicked Choccy's,1423.4167861300207,Full postal-code reference
+366,United States,Pennsylvania,Altoona,16602,Wicked Choccy's,967.807671423908,Full postal-code reference
+367,United States,Texas,Coppell,75019,The Other Factory,688.4695973326369,Full postal-code reference
+368,United States,Pennsylvania,Bethlehem,18018,Wicked Choccy's,1078.4391408905256,Full postal-code reference
+369,United States,Indiana,New Castle,47362,Secret Factory,469.9783030425297,Full postal-code reference
+370,United States,Florida,Plantation,33317,Wicked Choccy's,668.4224966078851,Full postal-code reference
+371,United States,California,Chico,95928,Lot's O' Nuts,1176.9933672707593,Full postal-code reference
+372,United States,Utah,Lehi,84043,Lot's O' Nuts,835.5406894499878,Full postal-code reference
+373,United States,Alabama,Auburn,36830,Wicked Choccy's,414.89343842402894,Full postal-code reference
+374,United States,California,San Bernardino,92404,Lot's O' Nuts,528.0829185951237,Full postal-code reference
+375,United States,California,Lancaster,93534,Lot's O' Nuts,622.931479981025,Full postal-code reference
+376,United States,Alabama,Huntsville,35810,The Other Factory,308.7207091003052,Full postal-code reference
+377,United States,California,Thousand Oaks,91360,Lot's O' Nuts,674.7132653862705,Full postal-code reference
+378,United States,South Carolina,Florence,29501,Wicked Choccy's,264.435916852612,Full postal-code reference
+379,United States,Washington,Covington,98042,Lot's O' Nuts,1831.8161385831881,Full postal-code reference
+380,United States,Florida,Coral Springs,33065,Wicked Choccy's,650.2755381722262,Full postal-code reference
+381,United States,Florida,Miami,33142,Wicked Choccy's,701.3914613833786,Full postal-code reference
+382,United States,Illinois,Normal,61761,Secret Factory,168.2623665810396,Full postal-code reference
+383,United States,Michigan,Lansing,48911,Secret Factory,512.8874075017386,Full postal-code reference
+384,United States,Washington,Spokane,99207,Sugar Shack,1575.3686035420985,Full postal-code reference
+385,United States,Connecticut,Norwich,06360,Wicked Choccy's,1320.9262825257479,Full postal-code reference
+386,United States,Nebraska,Norfolk,68701,Secret Factory,572.5360771670967,Full postal-code reference
+387,United States,New Mexico,Farmington,87401,Lot's O' Nuts,539.7830677806195,Full postal-code reference
+388,United States,Texas,Mcallen,78501,The Other Factory,1265.6346566060652,Full postal-code reference
+389,United States,Indiana,New Albany,47150,The Other Factory,512.4380274595611,Full postal-code reference
+390,United States,California,Santa Maria,93454,Lot's O' Nuts,831.7268451346972,Full postal-code reference
+391,United States,Florida,Daytona Beach,32114,Wicked Choccy's,319.7203595162137,Full postal-code reference
+392,United States,District of Columbia,Washington,20016,Wicked Choccy's,844.4058503331211,Full postal-code reference
+393,United States,Ohio,Troy,45373,Secret Factory,558.2797712260481,Full postal-code reference
+394,United States,Illinois,Tinley Park,60477,Secret Factory,230.33063380214497,Full postal-code reference
+395,United States,Texas,Allen,75002,The Other Factory,654.2499728945944,Full postal-code reference
+396,United States,Ohio,Cuyahoga Falls,44221,Secret Factory,759.5484229971293,Full postal-code reference
+397,United States,California,Camarillo,93010,Lot's O' Nuts,690.7553363654606,Full postal-code reference
+398,United States,North Carolina,Wilson,27893,Wicked Choccy's,500.08312666951986,Full postal-code reference
+399,United States,Illinois,Frankfort,60423,Secret Factory,228.4206986845636,Full postal-code reference
+400,United States,Kansas,Wichita,67212,Secret Factory,721.0574550696432,Full postal-code reference
+401,United States,Texas,Haltom City,76117,The Other Factory,720.277782727641,Full postal-code reference
+402,United States,Connecticut,Manchester,06040,Wicked Choccy's,1318.7467982136445,Full postal-code reference
+403,United States,New Jersey,Paterson,07501,Wicked Choccy's,1160.3517819177946,Full postal-code reference
+404,United States,Idaho,Pocatello,83201,Lot's O' Nuts,1114.1256932774122,Full postal-code reference
+405,United States,Maine,Lewiston,04240,Wicked Choccy's,1638.9066673939979,Full postal-code reference
+406,United States,Arizona,Peoria,85345,Lot's O' Nuts,88.54514799864675,Full postal-code reference
+407,United States,Utah,Layton,84041,Lot's O' Nuts,912.6425458482171,Full postal-code reference
+408,United States,Georgia,East Point,30344,Wicked Choccy's,361.4869318091869,Full postal-code reference
+409,United States,Georgia,Smyrna,30080,Wicked Choccy's,376.2907651215074,Full postal-code reference
+410,United States,Illinois,Carol Stream,60188,Secret Factory,208.36910290593997,Full postal-code reference
+411,United States,Massachusetts,Holyoke,01040,Wicked Choccy's,1351.3050057223013,Full postal-code reference
+412,United States,New Jersey,Vineland,08360,Wicked Choccy's,988.7797435849434,Full postal-code reference
+413,United States,Texas,Amarillo,79109,Lot's O' Nuts,944.9262380796458,Full postal-code reference
+414,United States,California,Bakersfield,93309,Lot's O' Nuts,724.7621983614226,Full postal-code reference
+415,United States,Florida,Port Saint Lucie,34952,Wicked Choccy's,537.7625135184154,Full postal-code reference
+416,United States,Illinois,Highland Park,60035,Secret Factory,242.7827078836164,Full postal-code reference
+417,United States,Indiana,South Bend,46614,Secret Factory,360.26562687953736,Full postal-code reference
+418,United States,Mississippi,Hattiesburg,39401,The Other Factory,427.3552930885417,Full postal-code reference
+419,United States,Missouri,Kirkwood,63122,Secret Factory,319.1552448898495,Full postal-code reference
+420,United States,Idaho,Boise,83704,Lot's O' Nuts,1258.5871903736415,Full postal-code reference
+421,United States,Oregon,Redmond,97756,Lot's O' Nuts,1506.3518298577096,Full postal-code reference
+422,United States,Minnesota,Eagan,55122,Secret Factory,429.28299556112097,Full postal-code reference
+423,United States,California,Yucaipa,92399,Lot's O' Nuts,506.15686004497724,Full postal-code reference
+424,United States,Massachusetts,New Bedford,02740,Wicked Choccy's,1392.6739639683065,Full postal-code reference
+425,United States,Kentucky,Florence,41042,Secret Factory,571.9077153838007,Full postal-code reference
+426,United States,Pennsylvania,Allentown,18103,Wicked Choccy's,1071.694767250743,Full postal-code reference
+427,United States,California,Murrieta,92563,Lot's O' Nuts,508.95031226397464,Full postal-code reference
+428,United States,Texas,Bedford,76021,The Other Factory,706.7067683194863,Full postal-code reference
+429,United States,Michigan,Holland,49423,Secret Factory,395.33723874759534,Full postal-code reference
+430,United States,Virginia,Charlottesville,22901,Wicked Choccy's,707.4332449176242,Full postal-code reference
+431,United States,Minnesota,Rochester,55901,Secret Factory,329.33529232091024,Full postal-code reference
+432,United States,Florida,Tamarac,33319,Wicked Choccy's,660.2373598371937,Full postal-code reference
+433,United States,California,La Quinta,92253,Lot's O' Nuts,430.9901882152854,Full postal-code reference
+434,United States,California,Redlands,92374,Lot's O' Nuts,517.7019303055343,Full postal-code reference
+435,United States,New York,Auburn,13021,Secret Factory,1164.025514873846,Full postal-code reference
+436,United States,South Carolina,North Charleston,29406,Wicked Choccy's,137.57626305354455,Full postal-code reference
+437,United States,Michigan,Lincoln Park,48146,Secret Factory,617.890075382429,Full postal-code reference
+438,United States,Massachusetts,Quincy,02169,Wicked Choccy's,1439.6546135519548,Full postal-code reference
+439,United States,California,Oceanside,92054,Lot's O' Nuts,522.1599614607097,Full postal-code reference
+440,United States,Tennessee,Franklin,37064,The Other Factory,294.1465633612809,Full postal-code reference
+441,United States,Iowa,Dubuque,52001,Secret Factory,119.21927996349258,Full postal-code reference
+442,United States,Oklahoma,Broken Arrow,74012,The Other Factory,537.7290912568907,Full postal-code reference
+443,United States,Illinois,Rockford,61107,Secret Factory,156.8557409271469,Full postal-code reference
+444,United States,Tennessee,Murfreesboro,37130,The Other Factory,334.16152514395,Full postal-code reference
+445,United States,New Jersey,Bayonne,07002,Wicked Choccy's,1140.017475202579,Full postal-code reference
+446,United States,Massachusetts,Cambridge,02138,Wicked Choccy's,1443.458049348863,Full postal-code reference
+447,United States,Illinois,Quincy,62301,Secret Factory,181.86617816151764,Full postal-code reference
+448,United States,Oregon,Hillsboro,97123,Lot's O' Nuts,1698.672435473955,Full postal-code reference
+449,United States,Maryland,Rockville,20852,Wicked Choccy's,854.2033961679718,Full postal-code reference
+450,United States,Georgia,Warner Robins,31088,Wicked Choccy's,246.67367774922695,Full postal-code reference
+451,United States,Michigan,Ann Arbor,48104,Secret Factory,573.4363711208329,Full postal-code reference
+452,United States,California,Santa Barbara,93101,Lot's O' Nuts,754.3254265491726,Full postal-code reference
+453,United States,Indiana,Noblesville,46060,Secret Factory,413.133650444667,Full postal-code reference
+454,United States,Michigan,Mount Pleasant,48858,Secret Factory,531.5323431420182,Full postal-code reference
+455,United States,Illinois,Orland Park,60462,Secret Factory,227.47788988561368,Full postal-code reference
+456,United States,Nevada,Sparks,89431,Lot's O' Nuts,1030.0559197458629,Full postal-code reference
+457,United States,California,Salinas,93905,Lot's O' Nuts,993.1096012326858,Full postal-code reference
+458,United States,Arkansas,Conway,72032,The Other Factory,223.13609635469976,Full postal-code reference
+459,United States,North Carolina,Monroe,28110,Wicked Choccy's,331.0558707252429,Full postal-code reference
+460,United States,Vermont,Burlington,05401,Secret Factory,1448.2210857217608,Full postal-code reference
+461,United States,Indiana,Lawrence,46226,Secret Factory,418.50814071336634,Full postal-code reference
+462,United States,Minnesota,Roseville,55113,Sugar Shack,415.45735031967905,Full postal-code reference
+463,United States,Montana,Helena,59601,Sugar Shack,1202.4776829490793,Full postal-code reference
+464,United States,Tennessee,Lebanon,37087,The Other Factory,352.95766546021923,Full postal-code reference
+465,United States,New Mexico,Rio Rancho,87124,Lot's O' Nuts,537.290017849618,Full postal-code reference
+466,United States,Texas,Frisco,75034,The Other Factory,667.4318398167704,Full postal-code reference
+467,United States,New Jersey,Morristown,07960,Wicked Choccy's,1134.354463003842,Full postal-code reference
+468,United States,Tennessee,Jackson,38301,The Other Factory,118.36565415515655,Full postal-code reference
+469,United States,California,Lake Elsinore,92530,Lot's O' Nuts,525.8994026649439,Full postal-code reference
+470,United States,Florida,Pembroke Pines,33024,Wicked Choccy's,677.2733186990274,Full postal-code reference
+471,United States,Illinois,Champaign,61821,Secret Factory,243.38458022674544,Full postal-code reference
+472,United States,Michigan,Dearborn,48126,Secret Factory,619.0574033614232,Full postal-code reference
+473,United States,California,Santa Ana,92704,Lot's O' Nuts,578.2578731119198,Full postal-code reference
+474,United States,Florida,Tallahassee,32303,Wicked Choccy's,354.17171224347993,Full postal-code reference
+475,United States,California,Temecula,92592,Lot's O' Nuts,500.42934024498464,Full postal-code reference
+476,United States,California,Costa Mesa,92627,Lot's O' Nuts,577.7857406175332,Full postal-code reference
+477,United States,Illinois,Glenview,60025,Secret Factory,238.039114353615,Full postal-code reference
+478,United States,Arizona,Bullhead City,86442,Lot's O' Nuts,359.2306797668838,Full postal-code reference
+479,United States,New York,Lindenhurst,11757,Wicked Choccy's,1179.5370233020249,Full postal-code reference
+480,United States,Wisconsin,Superior,54880,Sugar Shack,345.7221414308076,Full postal-code reference
+481,United States,Ohio,Dublin,43017,Secret Factory,644.5269874686321,Full postal-code reference
+482,United States,California,Visalia,93277,Lot's O' Nuts,788.0189992092952,Full postal-code reference
+483,United States,Montana,Missoula,59801,Sugar Shack,1345.0681755456876,Full postal-code reference
+484,United States,Maryland,Gaithersburg,20877,Wicked Choccy's,860.8892760744026,Full postal-code reference
+485,United States,Washington,Longview,98632,Lot's O' Nuts,1756.5850117123819,Full postal-code reference
+486,United States,New Jersey,Westfield,07090,Wicked Choccy's,1127.4400151587456,Full postal-code reference
+487,United States,Mississippi,Gulfport,39503,The Other Factory,524.4005743277382,Full postal-code reference
+488,United States,New Jersey,Atlantic City,08401,Wicked Choccy's,1008.3993805472136,Full postal-code reference
+489,United States,Arizona,Sierra Vista,85635,Lot's O' Nuts,205.74817539117555,Full postal-code reference
+490,United States,Tennessee,Chattanooga,37421,The Other Factory,439.2010770492581,Full postal-code reference
+491,United States,New Jersey,Belleville,07109,Wicked Choccy's,1149.5743093614792,Full postal-code reference
+492,United States,Wisconsin,La Crosse,54601,Secret Factory,266.97519087263277,Full postal-code reference
+493,United States,Texas,Round Rock,78664,The Other Factory,882.3099251073797,Full postal-code reference
+494,United States,Massachusetts,Andover,01810,Wicked Choccy's,1464.934188209762,Full postal-code reference
+495,United States,Connecticut,Milford,06460,Wicked Choccy's,1242.4463935538151,Full postal-code reference
+496,United States,Texas,Harlingen,78550,The Other Factory,1235.6567678648644,Full postal-code reference
+497,United States,California,Redwood City,94061,Lot's O' Nuts,1077.9338876550391,Full postal-code reference
+498,United States,Texas,Bryan,77803,The Other Factory,773.7837976723387,Full postal-code reference
+499,United States,Massachusetts,Malden,02148,Wicked Choccy's,1451.3360613452942,Full postal-code reference
+500,United States,Colorado,Littleton,80122,Lot's O' Nuts,962.8271090868285,Full postal-code reference
+501,United States,Missouri,Saint Peters,63376,Secret Factory,296.5005010493309,Full postal-code reference
+502,United States,Oklahoma,Norman,73071,The Other Factory,675.7856010431515,Full postal-code reference
+503,United States,Texas,Grapevine,76051,The Other Factory,698.5841841972968,Full postal-code reference
+504,United States,North Carolina,Gastonia,28052,Wicked Choccy's,352.55453762006624,Full postal-code reference
+505,Canada,British Columbia,Vancouver,V6E,Sugar Shack,1971.2316444015805,Postal-prefix estimate
+506,United States,Missouri,Jefferson City,65109,Secret Factory,349.57615412330136,Full postal-code reference
+507,United States,California,San Clemente,92672,Lot's O' Nuts,548.4306776050513,Full postal-code reference
+508,United States,California,Hesperia,92345,Lot's O' Nuts,540.0553503243827,Full postal-code reference
+509,United States,Nevada,Henderson,89015,Lot's O' Nuts,457.3852775839556,Full postal-code reference
+510,United States,California,Encinitas,92024,Lot's O' Nuts,513.4716863913586,Full postal-code reference
+511,United States,Virginia,Salem,24153,Wicked Choccy's,586.6646833313596,Full postal-code reference
+512,United States,Arizona,Yuma,85364,Lot's O' Nuts,269.42175048682935,Full postal-code reference
+513,United States,Connecticut,Waterbury,06708,Wicked Choccy's,1271.53183430263,Full postal-code reference
+514,United States,Rhode Island,Warwick,02886,Wicked Choccy's,1369.525310304357,Full postal-code reference
+515,United States,New Jersey,Passaic,07055,Wicked Choccy's,1157.2299776473674,Full postal-code reference
+516,United States,Colorado,Parker,80134,Lot's O' Nuts,961.5716309849021,Full postal-code reference
+517,United States,Colorado,Longmont,80501,Lot's O' Nuts,1005.7993210904673,Full postal-code reference
+518,United States,Pennsylvania,York,17403,Wicked Choccy's,959.5052950199453,Full postal-code reference
+519,United States,Michigan,Roseville,48066,Secret Factory,641.1082366879969,Full postal-code reference
+520,United States,Colorado,Broomfield,80020,Lot's O' Nuts,986.0156780530687,Full postal-code reference
+521,Canada,Manitoba,Winnipeg,R0H,Sugar Shack,276.4843407106287,Postal-prefix estimate
+522,United States,Kentucky,Bowling Green,42104,The Other Factory,375.89092867177595,Full postal-code reference
+523,United States,Florida,Pensacola,32503,The Other Factory,578.9129448896401,Full postal-code reference
+524,United States,Tennessee,Hendersonville,37075,The Other Factory,331.169357763708,Full postal-code reference
+525,United States,Wisconsin,West Allis,53214,Secret Factory,273.2520688513284,Full postal-code reference
+526,United States,Louisiana,Kenner,70065,The Other Factory,566.8493428249161,Full postal-code reference
+527,United States,California,Davis,95616,Lot's O' Nuts,1098.2450276000675,Full postal-code reference
+528,United States,Texas,Edinburg,78539,The Other Factory,1256.8056552344467,Full postal-code reference
+529,United States,Colorado,Fort Collins,80525,Lot's O' Nuts,1039.8939752377453,Full postal-code reference
+530,United States,Texas,Pharr,78577,The Other Factory,1266.1631566408196,Full postal-code reference
+531,United States,Wisconsin,Sheboygan,53081,Secret Factory,345.18076402204457,Full postal-code reference
+532,United States,Colorado,Englewood,80112,Lot's O' Nuts,965.8557975702087,Full postal-code reference
+533,United States,Texas,Waco,76706,The Other Factory,775.241220249639,Full postal-code reference
+534,United States,Wisconsin,Waukesha,53186,Secret Factory,259.0816751038382,Full postal-code reference
+535,United States,Kentucky,Georgetown,40324,The Other Factory,592.8179532482325,Full postal-code reference
+536,United States,Iowa,Cedar Rapids,52402,Secret Factory,110.98914701868591,Full postal-code reference
+537,United States,Minnesota,Saint Paul,55106,Sugar Shack,424.33719986333284,Full postal-code reference
+538,United States,North Carolina,Thomasville,27360,Wicked Choccy's,431.88996347700885,Full postal-code reference
+539,United States,Illinois,Wheeling,60090,Secret Factory,231.15776911136294,Full postal-code reference
+540,United States,California,Stockton,95207,Lot's O' Nuts,1035.2376615397375,Full postal-code reference
+541,United States,Colorado,Arvada,80004,Lot's O' Nuts,973.4681297386809,Full postal-code reference
+542,United States,Idaho,Twin Falls,83301,Lot's O' Nuts,1101.5205258435822,Full postal-code reference
+543,United States,California,Laguna Niguel,92677,Lot's O' Nuts,557.1043551405792,Full postal-code reference
+544,United States,Massachusetts,Marlborough,01752,Wicked Choccy's,1419.1192586472519,Full postal-code reference
+545,United States,Washington,Redmond,98052,Lot's O' Nuts,1860.6027492976418,Full postal-code reference
+546,United States,California,Woodland,95695,Lot's O' Nuts,1110.4823682882998,Full postal-code reference
+547,Canada,Saskatchewan,Regina,S0G,Sugar Shack,631.3445546848353,Postal-prefix estimate
+548,United States,Iowa,Iowa City,52240,Secret Factory,80.6993269040921,Full postal-code reference
+549,United States,Indiana,La Porte,46350,Secret Factory,321.58706653540594,Full postal-code reference
+550,United States,California,Lake Forest,92630,Lot's O' Nuts,556.7093320258358,Full postal-code reference
+551,United States,Florida,Coral Gables,33134,Wicked Choccy's,705.9207721912113,Full postal-code reference
+552,United States,Texas,The Colony,75056,The Other Factory,674.8463715040332,Full postal-code reference
+553,United States,Washington,Marysville,98270,Lot's O' Nuts,1899.287602253349,Full postal-code reference
+554,United States,Texas,La Porte,77571,The Other Factory,769.0844076110078,Full postal-code reference
+555,Canada,Manitoba,Winnipeg,R3R,Sugar Shack,209.38643543942538,Postal-prefix estimate
+556,United States,New Jersey,Bridgeton,08302,Wicked Choccy's,971.6209614579918,Full postal-code reference
+557,United States,California,San Luis Obispo,93405,Lot's O' Nuts,863.060234701309,Full postal-code reference
+558,United States,Texas,Conroe,77301,The Other Factory,740.3137593277706,Full postal-code reference
+559,United States,Iowa,Urbandale,50322,Secret Factory,263.5769997108024,Full postal-code reference
+560,United States,Oregon,Eugene,97405,Lot's O' Nuts,1580.2278234995977,Full postal-code reference
+561,United States,Wyoming,Cheyenne,82001,Sugar Shack,1031.3378923341943,Full postal-code reference
+562,United States,Illinois,Arlington Heights,60004,Secret Factory,226.85804730446554,Full postal-code reference
+563,United States,Washington,Auburn,98002,Lot's O' Nuts,1829.3657886143394,Full postal-code reference
+564,United States,Washington,Vancouver,98661,Lot's O' Nuts,1695.547853196565,Full postal-code reference
+565,United States,North Carolina,Burlington,27217,Wicked Choccy's,476.32455039619254,Full postal-code reference
+566,United States,New Mexico,Carlsbad,88220,Lot's O' Nuts,706.6599602545435,Full postal-code reference
+567,United States,Oklahoma,Edmond,73034,The Other Factory,683.203678617911,Full postal-code reference
+568,United States,California,Montebello,90640,Lot's O' Nuts,601.8673653766094,Full postal-code reference
+569,United States,Connecticut,Shelton,06484,Wicked Choccy's,1246.3675099293341,Full postal-code reference
+570,United States,New Jersey,East Orange,07017,Wicked Choccy's,1145.15242528292,Full postal-code reference
+571,United States,Kansas,Overland Park,66212,Secret Factory,445.9216186746623,Full postal-code reference
+572,United States,North Carolina,Hickory,28601,Wicked Choccy's,409.9564301247424,Full postal-code reference
+573,United States,Texas,San Angelo,76903,The Other Factory,1053.2896952633319,Full postal-code reference
+574,United States,Iowa,Marion,52302,Secret Factory,107.96492088340841,Full postal-code reference
+575,United States,California,Morgan Hill,95037,Lot's O' Nuts,1015.9429585129699,Full postal-code reference
+576,United States,Kentucky,Murray,42071,The Other Factory,223.88660019148426,Full postal-code reference
+577,United States,California,Antioch,94509,Lot's O' Nuts,1071.6761636474444,Full postal-code reference
+578,United States,Texas,Richardson,75080,The Other Factory,668.2515369393248,Full postal-code reference
+579,United States,Nebraska,Fremont,68025,Secret Factory,494.0992727681832,Full postal-code reference
+580,United States,Indiana,Greenwood,46142,Secret Factory,424.7022220818689,Full postal-code reference
+581,United States,Florida,Homestead,33030,Wicked Choccy's,736.1954221231061,Full postal-code reference
+582,United States,California,Torrance,90503,Lot's O' Nuts,620.7611292026237,Full postal-code reference
+583,United States,California,Apple Valley,92307,Lot's O' Nuts,535.8701837325434,Full postal-code reference
+584,United States,North Carolina,Goldsboro,27534,Wicked Choccy's,468.55311060451487,Full postal-code reference
+585,United States,New Hampshire,Nashua,03060,Wicked Choccy's,1458.0897784890276,Full postal-code reference
+586,United States,Texas,Deer Park,77536,The Other Factory,773.7342257489357,Full postal-code reference
+587,United States,Alabama,Tuscaloosa,35401,The Other Factory,307.74113966496543,Full postal-code reference
+588,United States,Florida,Ormond Beach,32174,Wicked Choccy's,310.5536423777248,Full postal-code reference
+589,United States,Texas,Keller,76248,The Other Factory,713.3343561993555,Full postal-code reference
+590,United States,Alabama,Hoover,35244,The Other Factory,349.37539913751914,Full postal-code reference
+591,United States,Oklahoma,Muskogee,74403,The Other Factory,491.7406265028516,Full postal-code reference
+592,United States,Arkansas,Rogers,72756,The Other Factory,397.799020199402,Full postal-code reference
+593,United States,Florida,Pompano Beach,33068,Wicked Choccy's,657.0409135578749,Full postal-code reference
+594,United States,California,Fairfield,94533,Lot's O' Nuts,1103.8650254842714,Full postal-code reference
+595,United States,Michigan,Oak Park,48237,Secret Factory,620.6129782193444,Full postal-code reference
+596,United States,New Jersey,New Brunswick,08901,Wicked Choccy's,1107.9528842318846,Full postal-code reference
+597,United States,Colorado,Greeley,80634,Lot's O' Nuts,1044.4008922424853,Full postal-code reference
+598,United States,Florida,Kissimmee,34741,Wicked Choccy's,420.5640418798681,Full postal-code reference
+599,United States,Florida,Sanford,32771,Wicked Choccy's,364.636912960497,Full postal-code reference
+600,United States,Illinois,Danville,61832,Secret Factory,287.3984344442035,Full postal-code reference
+601,United States,California,Westminster,92683,Lot's O' Nuts,586.4474690566801,Full postal-code reference
+602,United States,Texas,Mansfield,76063,The Other Factory,719.6793725343399,Full postal-code reference
+603,United States,North Dakota,Fargo,58103,Sugar Shack,148.2015339183067,Full postal-code reference
+604,United States,Maryland,Laurel,20707,Wicked Choccy's,869.5906411867524,Full postal-code reference
+605,United States,Washington,Bellingham,98226,Sugar Shack,1928.5458481034616,Full postal-code reference
+606,United States,Texas,Missouri City,77489,The Other Factory,804.5029034413114,Full postal-code reference
+607,United States,Texas,Pearland,77581,The Other Factory,793.2146104796722,Full postal-code reference
+608,United States,Michigan,Rochester Hills,48307,Secret Factory,628.9314397631485,Full postal-code reference
+609,United States,Minnesota,Maple Grove,55369,Sugar Shack,392.12782509384107,Full postal-code reference
+610,United States,North Carolina,Chapel Hill,27514,Wicked Choccy's,467.36855660337716,Full postal-code reference
+611,United States,Colorado,Commerce City,80022,Lot's O' Nuts,985.8371024265989,Full postal-code reference
+612,United States,West Virginia,Wheeling,26003,Secret Factory,847.9081688331491,Full postal-code reference
+613,United States,California,Citrus Heights,95610,Lot's O' Nuts,1072.389803298734,Full postal-code reference
+614,United States,California,Pico Rivera,90660,Lot's O' Nuts,599.1401009429069,Full postal-code reference
+615,United States,California,San Mateo,94403,Lot's O' Nuts,1087.0146332527736,Full postal-code reference
+616,United States,Iowa,Waterloo,50701,Secret Factory,187.92870433522793,Full postal-code reference
+617,United States,Indiana,Elkhart,46514,Secret Factory,383.0869159590977,Full postal-code reference
+618,United States,Colorado,Loveland,80538,Lot's O' Nuts,1028.1602139269326,Full postal-code reference
+619,United States,California,Inglewood,90301,Lot's O' Nuts,622.81387020934,Full postal-code reference
+620,United States,California,La Mesa,91941,Lot's O' Nuts,490.10864928557305,Full postal-code reference
+621,United States,California,Modesto,95351,Lot's O' Nuts,989.2954907805829,Full postal-code reference
+622,United States,Missouri,Independence,64055,Secret Factory,420.458838364254,Full postal-code reference
+623,United States,New Mexico,Clovis,88101,Lot's O' Nuts,808.9549655286019,Full postal-code reference
+624,United States,Nebraska,Grand Island,68801,Secret Factory,653.086795219373,Full postal-code reference
+625,United States,Florida,Melbourne,32935,Wicked Choccy's,439.8628949588111,Full postal-code reference
+626,United States,Arkansas,Pine Bluff,71603,The Other Factory,215.9132540211473,Full postal-code reference
+627,United States,Minnesota,Saint Cloud,56301,Sugar Shack,324.49554149749383,Full postal-code reference
+628,United States,Florida,Miramar,33023,Wicked Choccy's,682.1109278782785,Full postal-code reference
+629,United States,Ohio,Mentor,44060,Secret Factory,767.4276071058035,Full postal-code reference
+630,United States,Idaho,Meridian,83642,Lot's O' Nuts,1259.5200304475154,Full postal-code reference
+631,United States,California,Danville,94526,Lot's O' Nuts,1074.3202197083867,Full postal-code reference
+632,United States,Arkansas,Springdale,72762,The Other Factory,397.9729127175887,Full postal-code reference
+633,United States,California,Sunnyvale,94086,Lot's O' Nuts,1057.2463240741793,Full postal-code reference
+634,United States,California,Coachella,92236,Lot's O' Nuts,419.22106363960984,Full postal-code reference
+635,United States,South Dakota,Aberdeen,57401,Sugar Shack,343.1888529380995,Full postal-code reference
+636,United States,Florida,Jupiter,33458,Wicked Choccy's,579.4120383964226,Full postal-code reference
+637,United States,California,Dublin,94568,Lot's O' Nuts,1065.94375932286,Full postal-code reference
+638,United States,Ohio,Grove City,43123,Secret Factory,654.3532116260004,Full postal-code reference
+639,United States,Ohio,Elyria,44035,Secret Factory,705.3338597628033,Full postal-code reference
+640,United States,Maryland,Hagerstown,21740,Wicked Choccy's,892.6107803018494,Full postal-code reference
+641,United States,Michigan,Saginaw,48601,Secret Factory,587.4363586803069,Full postal-code reference
+642,United States,Texas,College Station,77840,The Other Factory,775.9586593955205,Full postal-code reference
+643,United States,California,Ontario,91761,Lot's O' Nuts,557.5293247668945,Full postal-code reference
+644,United States,Washington,Renton,98059,Lot's O' Nuts,1844.6118238603908,Full postal-code reference
+645,United States,Michigan,Canton,48187,Secret Factory,595.4031620578413,Full postal-code reference
+646,United States,South Carolina,Summerville,29483,Wicked Choccy's,136.18918324281364,Full postal-code reference
+647,United States,Missouri,Gladstone,64118,Secret Factory,420.78887919675236,Full postal-code reference
+648,United States,California,Whittier,90604,Lot's O' Nuts,591.0976774962595,Full postal-code reference
+649,United States,Texas,Abilene,79605,The Other Factory,953.3560333190512,Full postal-code reference
+650,United States,Iowa,Burlington,52601,Secret Factory,84.62131477314166,Full postal-code reference
+651,United States,Illinois,Palatine,60067,Secret Factory,221.9400684072383,Full postal-code reference
+652,United States,Illinois,Oak Park,60302,Secret Factory,235.84379434874128,Full postal-code reference
+653,United States,Florida,Port Orange,32127,Wicked Choccy's,326.7974797980452,Full postal-code reference
+654,United States,Connecticut,Danbury,06810,Wicked Choccy's,1238.1170670604552,Full postal-code reference
+655,United States,Washington,Everett,98208,Lot's O' Nuts,1884.688694397355,Full postal-code reference

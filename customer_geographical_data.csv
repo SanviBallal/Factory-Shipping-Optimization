@@ -1,0 +1,656 @@
+Country/Region,State/Province,City,Postal Code,Latitude,Longitude,Accuracy,Coordinate Source,Customer Location ID
+United States,Texas,Houston,77095,29.8941,-95.6481,4,Full postal-code reference,1
+United States,Illinois,Naperville,60540,41.7662,-88.141,4,Full postal-code reference,2
+United States,Pennsylvania,Philadelphia,19143,39.9448,-75.2288,4,Full postal-code reference,3
+United States,Kentucky,Henderson,42420,37.8274,-87.5632,4,Full postal-code reference,4
+United States,Georgia,Athens,30605,33.9321,-83.3525,4,Full postal-code reference,5
+United States,California,Los Angeles,90049,34.066,-118.474,4,Full postal-code reference,6
+United States,Texas,Huntsville,77340,30.6448,-95.5798,4,Full postal-code reference,7
+United States,Texas,Laredo,78041,27.5569,-99.4907,1,Full postal-code reference,8
+United States,Virginia,Springfield,22153,38.7449,-77.237,4,Full postal-code reference,9
+United States,Delaware,Dover,19901,39.1564,-75.4955,4,Full postal-code reference,10
+United States,California,San Francisco,94109,37.7917,-122.4186,4,Full postal-code reference,11
+United States,South Carolina,Mount Pleasant,29464,32.8473,-79.8206,4,Full postal-code reference,12
+United States,Ohio,Newark,43055,40.0724,-82.4046,4,Full postal-code reference,13
+United States,Louisiana,Bossier City,71111,32.5449,-93.7038,4,Full postal-code reference,14
+United States,Pennsylvania,Philadelphia,19140,40.0118,-75.1456,4,Full postal-code reference,15
+United States,Georgia,Roswell,30076,34.0213,-84.3104,4,Full postal-code reference,16
+United States,Pennsylvania,Philadelphia,19134,39.9925,-75.1133,4,Full postal-code reference,17
+United States,Oregon,Springfield,97477,44.0611,-123.0153,4,Full postal-code reference,18
+United States,Arizona,Scottsdale,85254,33.6165,-111.9554,4,Full postal-code reference,19
+United States,Arkansas,Jonesboro,72401,35.833,-90.6965,4,Full postal-code reference,20
+United States,Michigan,Westland,48185,42.3358,-83.3846,4,Full postal-code reference,21
+United States,Tennessee,Smyrna,37167,35.9656,-86.5048,4,Full postal-code reference,22
+United States,Florida,Miami,33180,25.9597,-80.1403,4,Full postal-code reference,23
+Canada,Ontario,Toronto,M7A,43.6639725,-79.39180916666668,,Postal-prefix estimate,24
+United States,Indiana,Lafayette,47905,40.4001,-86.8602,4,Full postal-code reference,25
+United States,Nevada,Las Vegas,89115,36.2158,-115.0671,4,Full postal-code reference,26
+United States,South Dakota,Rapid City,57701,44.1415,-103.2052,4,Full postal-code reference,27
+United States,Virginia,Alexandria,22304,38.8149,-77.121,4,Full postal-code reference,28
+United States,California,San Diego,92037,32.8455,-117.2521,4,Full postal-code reference,29
+United States,New York,New York City,10024,40.7864,-73.9764,4,Full postal-code reference,30
+United States,Michigan,Detroit,48234,42.4337,-83.0434,4,Full postal-code reference,31
+United States,California,Mission Viejo,92691,33.6128,-117.6622,4,Full postal-code reference,32
+United States,Wisconsin,Green Bay,54302,44.5025,-87.9771,4,Full postal-code reference,33
+United States,Florida,Saint Petersburg,33710,27.7898,-82.7243,4,Full postal-code reference,34
+United States,Washington,Seattle,98105,47.6633,-122.3022,4,Full postal-code reference,35
+United States,California,Escondido,92025,33.1101,-117.07,4,Full postal-code reference,36
+United States,California,San Diego,92024,33.0535,-117.2689,4,Full postal-code reference,37
+United States,Illinois,Romeoville,60441,41.593,-88.0507,4,Full postal-code reference,38
+United States,Virginia,Chesapeake,23320,36.7352,-76.2384,4,Full postal-code reference,39
+United States,New Jersey,Linden,07036,40.6354,-74.2556,4,Full postal-code reference,40
+United States,Nevada,North Las Vegas,89031,36.2589,-115.1718,4,Full postal-code reference,41
+United States,Missouri,Columbia,65203,38.9348,-92.3639,4,Full postal-code reference,42
+United States,California,Concord,94521,37.9575,-121.975,4,Full postal-code reference,43
+United States,Washington,Seattle,98103,47.6733,-122.3426,4,Full postal-code reference,44
+United States,Texas,Dallas,75220,32.8681,-96.8622,4,Full postal-code reference,45
+United States,Illinois,Chicago,60653,41.8196,-87.6126,4,Full postal-code reference,46
+United States,Texas,Lubbock,79424,33.5159,-101.9344,4,Full postal-code reference,47
+United States,Texas,Arlington,76017,32.6555,-97.1599,4,Full postal-code reference,48
+United States,Indiana,Richmond,47374,39.8324,-84.8936,4,Full postal-code reference,49
+United States,Illinois,Woodstock,60098,42.3198,-88.4477,4,Full postal-code reference,50
+United States,California,Moreno Valley,92553,33.9157,-117.2351,4,Full postal-code reference,51
+United States,Texas,El Paso,79907,31.7089,-106.3293,4,Full postal-code reference,52
+United States,Oregon,Medford,97504,42.3363,-122.8398,4,Full postal-code reference,53
+United States,Ohio,Columbus,43229,40.0839,-82.9726,4,Full postal-code reference,54
+United States,Illinois,Elmhurst,60126,41.8927,-87.941,4,Full postal-code reference,55
+United States,Washington,Seattle,98115,47.6849,-122.2968,4,Full postal-code reference,56
+United States,Texas,Houston,77036,29.6984,-95.5405,4,Full postal-code reference,57
+United States,New York,New York City,10035,40.8011,-73.9371,4,Full postal-code reference,58
+United States,New York,New York City,10009,40.7262,-73.9796,4,Full postal-code reference,59
+United States,Pennsylvania,Philadelphia,19120,40.0343,-75.1213,4,Full postal-code reference,60
+United States,North Carolina,Wilmington,28403,34.2237,-77.8862,4,Full postal-code reference,61
+United States,Florida,Margate,33063,26.2674,-80.2092,4,Full postal-code reference,62
+United States,South Carolina,Columbia,29203,34.0635,-81.0265,4,Full postal-code reference,63
+United States,New York,Yonkers,10701,40.9461,-73.8669,4,Full postal-code reference,64
+United States,Washington,Des Moines,98198,47.3929,-122.3129,4,Full postal-code reference,65
+United States,Colorado,Denver,80219,39.6956,-105.0341,4,Full postal-code reference,66
+United States,Michigan,Royal Oak,48073,42.519,-83.157,4,Full postal-code reference,67
+United States,Kentucky,Richmond,40475,37.7546,-84.2955,4,Full postal-code reference,68
+United States,California,Roseville,95661,38.7346,-121.234,4,Full postal-code reference,69
+Canada,Alberta,Calgary,T2C,50.987206931702346,-113.99486371049949,,Postal-prefix estimate,70
+United States,California,Huntington Beach,92646,33.6654,-117.9686,4,Full postal-code reference,71
+United States,Utah,Logan,84321,41.747,-111.8226,4,Full postal-code reference,72
+United States,Florida,Jacksonville,32216,30.2787,-81.5831,4,Full postal-code reference,73
+United States,Florida,Tampa,33614,28.0091,-82.5034,4,Full postal-code reference,74
+United States,North Carolina,Raleigh,27604,35.8334,-78.5799,4,Full postal-code reference,75
+United States,Minnesota,Lakeville,55044,44.6749,-93.2578,4,Full postal-code reference,76
+United States,Mississippi,Jackson,39212,32.2435,-90.2612,4,Full postal-code reference,77
+United States,Texas,Dallas,75217,32.7244,-96.6755,4,Full postal-code reference,78
+United States,California,San Francisco,94110,37.7509,-122.4153,4,Full postal-code reference,79
+United States,California,Burbank,91505,34.169,-118.3442,4,Full postal-code reference,80
+United States,Florida,Lakeland,33801,28.0381,-81.9392,4,Full postal-code reference,81
+United States,Tennessee,Knoxville,37918,36.0501,-83.9226,4,Full postal-code reference,82
+United States,Ohio,Hamilton,45011,39.4059,-84.5221,4,Full postal-code reference,83
+United States,North Carolina,Asheville,28806,35.5808,-82.6078,4,Full postal-code reference,84
+United States,Arizona,Tucson,85705,32.2691,-110.9845,4,Full postal-code reference,85
+United States,Indiana,Portage,46368,41.5672,-87.1757,4,Full postal-code reference,86
+United States,North Carolina,Greensboro,27405,36.1214,-79.7733,4,Full postal-code reference,87
+United States,Florida,Delray Beach,33445,26.4564,-80.1054,4,Full postal-code reference,88
+United States,California,Los Angeles,90036,34.0699,-118.3492,4,Full postal-code reference,89
+United States,California,Fresno,93727,36.7528,-119.7061,4,Full postal-code reference,90
+United States,California,San Francisco,94122,37.7593,-122.4836,4,Full postal-code reference,91
+United States,California,Pomona,91767,34.0812,-117.7362,4,Full postal-code reference,92
+United States,Ohio,Springfield,45503,39.9528,-83.7804,4,Full postal-code reference,93
+United States,Iowa,Des Moines,50315,41.5444,-93.6192,4,Full postal-code reference,94
+United States,New Mexico,Albuquerque,87105,35.0448,-106.6893,4,Full postal-code reference,95
+United States,Texas,Plano,75023,33.055,-96.7365,4,Full postal-code reference,96
+United States,Texas,Brownsville,78521,25.9221,-97.4612,4,Full postal-code reference,97
+United States,New York,Long Beach,11561,40.5877,-73.6595,4,Full postal-code reference,98
+United States,Minnesota,Apple Valley,55124,44.7497,-93.2029,1,Full postal-code reference,99
+United States,Illinois,Chicago,60610,41.9033,-87.6336,4,Full postal-code reference,100
+United States,California,Vallejo,94591,38.0985,-122.2124,4,Full postal-code reference,101
+United States,Massachusetts,Revere,02151,42.4138,-71.0052,4,Full postal-code reference,102
+United States,Virginia,Virginia Beach,23464,36.7978,-76.1759,4,Full postal-code reference,103
+United States,California,Los Angeles,90008,34.0116,-118.3411,4,Full postal-code reference,104
+United States,Michigan,Detroit,48205,42.4313,-82.9813,4,Full postal-code reference,105
+United States,Louisiana,Lafayette,70506,30.2077,-92.0656,4,Full postal-code reference,106
+United States,Michigan,Dearborn Heights,48127,42.3353,-83.2864,4,Full postal-code reference,107
+United States,Illinois,Decatur,62521,39.8395,-88.9465,4,Full postal-code reference,108
+United States,California,Los Angeles,90004,34.0762,-118.3029,4,Full postal-code reference,109
+United States,Pennsylvania,Lancaster,17602,40.0335,-76.2844,4,Full postal-code reference,110
+United States,Alabama,Mobile,36608,30.6817,-88.2945,4,Full postal-code reference,111
+United States,Georgia,Marietta,30062,34.0025,-84.4633,4,Full postal-code reference,112
+United States,Alabama,Decatur,35601,34.5896,-86.9887,4,Full postal-code reference,113
+United States,Ohio,Toledo,43615,41.6492,-83.6706,4,Full postal-code reference,114
+United States,Arizona,Glendale,85301,33.5311,-112.1767,4,Full postal-code reference,115
+United States,Arizona,Chandler,85224,33.3301,-111.8632,4,Full postal-code reference,116
+United States,Idaho,Lewiston,83501,46.3646,-116.8609,4,Full postal-code reference,117
+United States,Montana,Great Falls,59405,47.495,-111.2502,4,Full postal-code reference,118
+United States,Texas,Austin,78745,30.2063,-97.7956,4,Full postal-code reference,119
+United States,California,Redondo Beach,90278,33.8707,-118.3715,4,Full postal-code reference,120
+United States,California,Lodi,95240,38.1222,-121.2555,4,Full postal-code reference,121
+United States,Indiana,Bloomington,47401,39.1401,-86.5083,4,Full postal-code reference,122
+United States,Maryland,Baltimore,21215,39.3446,-76.6794,4,Full postal-code reference,123
+United States,California,San Jose,95123,37.2458,-121.8306,4,Full postal-code reference,124
+United States,Virginia,Arlington,22204,38.859,-77.0997,4,Full postal-code reference,125
+United States,California,Los Angeles,90045,33.9631,-118.3941,4,Full postal-code reference,126
+United States,Texas,Houston,77070,29.9781,-95.5803,4,Full postal-code reference,127
+United States,New York,Troy,12180,42.7287,-73.6683,4,Full postal-code reference,128
+United States,California,San Gabriel,91776,34.089,-118.0955,4,Full postal-code reference,129
+United States,New York,Jamestown,14701,42.0928,-79.244,4,Full postal-code reference,130
+United States,Tennessee,Memphis,38109,35.0425,-90.0732,4,Full postal-code reference,131
+United States,Louisiana,Lake Charles,70601,30.2285,-93.188,4,Full postal-code reference,132
+United States,New York,Rochester,14609,43.174,-77.5637,4,Full postal-code reference,133
+United States,Kentucky,Louisville,40214,38.1593,-85.778,4,Full postal-code reference,134
+United States,Wisconsin,Appleton,54915,44.2425,-88.3564,4,Full postal-code reference,135
+United States,Connecticut,Middletown,06457,41.5569,-72.6652,4,Full postal-code reference,136
+United States,Michigan,Jackson,49201,42.2545,-84.3875,4,Full postal-code reference,137
+United States,Texas,San Antonio,78207,29.4229,-98.526,4,Full postal-code reference,138
+United States,Illinois,Freeport,61032,42.2991,-89.6345,4,Full postal-code reference,139
+United States,Massachusetts,Lawrence,01841,42.7115,-71.167,4,Full postal-code reference,140
+Canada,Ontario,Toronto,M3C,43.72806672932331,-79.34414793233083,,Postal-prefix estimate,141
+United States,Washington,Kent,98031,47.388,-122.1932,4,Full postal-code reference,142
+United States,Texas,Fort Worth,76106,32.7968,-97.356,4,Full postal-code reference,143
+United States,New York,Watertown,13601,43.9743,-75.9122,4,Full postal-code reference,144
+United States,Wisconsin,Milwaukee,53209,43.1188,-87.9478,4,Full postal-code reference,145
+United States,Massachusetts,Franklin,02038,42.0935,-71.4058,4,Full postal-code reference,146
+United States,Florida,Hialeah,33012,25.8654,-80.3059,4,Full postal-code reference,147
+United States,Utah,West Jordan,84084,40.6254,-111.9677,4,Full postal-code reference,148
+United States,California,Oakland,94601,37.7806,-122.2166,4,Full postal-code reference,149
+United States,Wisconsin,Eau Claire,54703,44.8346,-91.5159,4,Full postal-code reference,150
+United States,Ohio,Akron,44312,41.0334,-81.4385,4,Full postal-code reference,151
+United States,Ohio,Cleveland,44105,41.4509,-81.619,4,Full postal-code reference,152
+United States,Michigan,Midland,48640,43.6376,-84.268,4,Full postal-code reference,153
+United States,New Hampshire,Dover,03820,43.1888,-70.8868,4,Full postal-code reference,154
+United States,Texas,San Marcos,78666,29.8754,-97.9404,4,Full postal-code reference,155
+Canada,British Columbia,Vancouver,V6Z,49.277096621621624,-123.12532094594593,,Postal-prefix estimate,156
+Canada,Quebec,Montreal,H1A,45.670130958230956,-73.49948181818182,,Postal-prefix estimate,157
+United States,Washington,Bellevue,98006,47.5614,-122.1552,4,Full postal-code reference,158
+United States,Illinois,Chicago,60623,41.849,-87.7157,4,Full postal-code reference,159
+United States,Utah,Murray,84107,40.6568,-111.8904,4,Full postal-code reference,160
+United States,California,San Diego,92105,32.7423,-117.0947,4,Full postal-code reference,161
+United States,Illinois,Buffalo Grove,60089,42.1598,-87.9644,4,Full postal-code reference,162
+United States,Virginia,Richmond,23223,37.5477,-77.3948,4,Full postal-code reference,163
+United States,Arkansas,Little Rock,72209,34.6725,-92.3529,4,Full postal-code reference,164
+United States,New Jersey,Lakewood,08701,40.085,-74.2042,4,Full postal-code reference,165
+United States,Utah,Orem,84057,40.3134,-111.6953,4,Full postal-code reference,166
+United States,Illinois,Aurora,60505,41.7582,-88.2971,4,Full postal-code reference,167
+United States,Illinois,Peoria,61604,40.7111,-89.6324,4,Full postal-code reference,168
+United States,Tennessee,Bristol,37620,36.5686,-82.1819,4,Full postal-code reference,169
+United States,California,Los Angeles,90032,34.0818,-118.1753,4,Full postal-code reference,170
+United States,Virginia,Harrisonburg,22801,38.4489,-78.8714,4,Full postal-code reference,171
+United States,Indiana,Mishawaka,46544,41.6507,-86.1623,4,Full postal-code reference,172
+United States,New York,Hempstead,11550,40.7049,-73.6176,4,Full postal-code reference,173
+United States,Delaware,Newark,19711,39.7011,-75.7375,4,Full postal-code reference,174
+Canada,Nova Scotia,Halifax,B3H,44.63700590015129,-63.58655748865356,,Postal-prefix estimate,175
+United States,Oklahoma,Lawton,73505,34.6179,-98.4552,4,Full postal-code reference,176
+United States,Virginia,Waynesboro,22980,38.0774,-78.9035,4,Full postal-code reference,177
+United States,Connecticut,Meriden,06450,41.5334,-72.7997,4,Full postal-code reference,178
+United States,Colorado,Pueblo,81001,38.2879,-104.5848,4,Full postal-code reference,179
+United States,Pennsylvania,Chester,19013,39.8498,-75.3747,4,Full postal-code reference,180
+United States,Arizona,Phoenix,85023,33.6324,-112.1118,4,Full postal-code reference,181
+United States,Minnesota,Minneapolis,55407,44.9378,-93.2545,4,Full postal-code reference,182
+United States,Colorado,Louisville,80027,39.9789,-105.1456,4,Full postal-code reference,183
+United States,North Carolina,Concord,28027,35.4141,-80.6162,4,Full postal-code reference,184
+United States,Oregon,Salem,97301,44.949,-123.004,4,Full postal-code reference,185
+United States,Mississippi,Southaven,38671,34.9771,-89.9992,4,Full postal-code reference,186
+United States,Ohio,Cincinnati,45231,39.2418,-84.5437,4,Full postal-code reference,187
+United States,New York,New York City,10011,40.7402,-73.9996,4,Full postal-code reference,188
+United States,Florida,Deltona,32725,28.8989,-81.2473,4,Full postal-code reference,189
+United States,New Jersey,Plainfield,07060,40.6152,-74.415,4,Full postal-code reference,190
+United States,Colorado,Aurora,80013,39.6575,-104.7846,1,Full postal-code reference,191
+United States,Florida,Palm Coast,32137,29.5565,-81.219,4,Full postal-code reference,192
+United States,California,El Cajon,92020,32.7928,-116.9665,4,Full postal-code reference,193
+United States,New York,Buffalo,14215,42.9335,-78.8115,4,Full postal-code reference,194
+United States,New Jersey,Hackensack,07601,40.8882,-74.0503,4,Full postal-code reference,195
+United States,New York,Niagara Falls,14304,43.0908,-78.9644,4,Full postal-code reference,196
+United States,Texas,League City,77573,29.5173,-95.0963,4,Full postal-code reference,197
+United States,South Dakota,Sioux Falls,57103,43.5374,-96.6864,4,Full postal-code reference,198
+United States,New York,New Rochelle,10801,40.9166,-73.7877,4,Full postal-code reference,199
+United States,Connecticut,Bristol,06010,41.6823,-72.9302,4,Full postal-code reference,200
+United States,California,Riverside,92503,33.9208,-117.4589,4,Full postal-code reference,201
+United States,Nebraska,Omaha,68104,41.2919,-95.9999,4,Full postal-code reference,202
+United States,Georgia,Atlanta,30318,33.7865,-84.4454,4,Full postal-code reference,203
+United States,Utah,Draper,84020,40.5046,-111.881,4,Full postal-code reference,204
+United States,Florida,Apopka,32712,28.712,-81.5136,4,Full postal-code reference,205
+United States,North Carolina,Charlotte,28205,35.22,-80.7881,4,Full postal-code reference,206
+United States,Missouri,Springfield,65807,37.1668,-93.3085,4,Full postal-code reference,207
+United States,Maine,Bangor,04401,44.8242,-68.7918,4,Full postal-code reference,208
+United States,Utah,Pleasant Grove,84062,40.372,-111.7333,4,Full postal-code reference,209
+United States,Texas,Texas City,77590,29.397,-94.9203,4,Full postal-code reference,210
+United States,Michigan,Trenton,48183,42.1382,-83.2179,4,Full postal-code reference,211
+United States,California,Vacaville,95687,38.3482,-121.9538,4,Full postal-code reference,212
+Canada,Ontario,Toronto,M5H,43.64967181208054,-79.38452684563758,,Postal-prefix estimate,213
+United States,Georgia,Woodstock,30188,34.106,-84.5117,4,Full postal-code reference,214
+United States,Florida,Hollywood,33021,26.0218,-80.1891,4,Full postal-code reference,215
+United States,Connecticut,Fairfield,06824,41.1692,-73.2681,4,Full postal-code reference,216
+United States,Texas,Dallas,75081,32.9462,-96.7058,4,Full postal-code reference,217
+United States,Georgia,Columbus,31907,32.4779,-84.898,4,Full postal-code reference,218
+Canada,Quebec,Montreal,H1B,45.63982124711317,-73.50356408775983,,Postal-prefix estimate,219
+United States,Virginia,Hampton,23666,37.0462,-76.4096,4,Full postal-code reference,220
+United States,Ohio,Lakewood,44107,41.4847,-81.8018,4,Full postal-code reference,221
+United States,Missouri,Saint Charles,63301,38.8014,-90.5065,4,Full postal-code reference,222
+United States,Florida,North Miami,33161,25.8934,-80.1758,4,Full postal-code reference,223
+United States,Michigan,Grand Rapids,49505,43.012,-85.6309,4,Full postal-code reference,224
+United States,New York,Oceanside,11572,40.6362,-73.6375,4,Full postal-code reference,225
+United States,Montana,Billings,59102,45.7813,-108.5727,4,Full postal-code reference,226
+United States,Kentucky,Owensboro,42301,37.7513,-87.1554,4,Full postal-code reference,227
+United States,Florida,Miami,33178,25.8141,-80.3549,4,Full postal-code reference,228
+United States,New Mexico,Santa Fe,87505,35.6219,-105.8688,4,Full postal-code reference,229
+United States,Arkansas,Fayetteville,72701,36.052,-94.1534,4,Full postal-code reference,230
+United States,Ohio,Bowling Green,43402,41.3815,-83.6507,4,Full postal-code reference,231
+United States,Oklahoma,Tulsa,74133,36.0467,-95.8841,4,Full postal-code reference,232
+United States,Illinois,Oswego,60543,41.6849,-88.3453,4,Full postal-code reference,233
+United States,California,Santa Clara,95051,37.3483,-121.9844,4,Full postal-code reference,234
+United States,Washington,Pasco,99301,46.2492,-119.1044,4,Full postal-code reference,235
+United States,Texas,Tyler,75701,32.3254,-95.2922,4,Full postal-code reference,236
+United States,Georgia,Macon,31204,32.8424,-83.6766,4,Full postal-code reference,237
+United States,Massachusetts,Lowell,01852,42.6344,-71.2983,4,Full postal-code reference,238
+United States,Ohio,Lancaster,43130,39.7187,-82.6031,4,Full postal-code reference,239
+United States,Michigan,Detroit,48227,42.3883,-83.1937,4,Full postal-code reference,240
+United States,North Carolina,Greenville,27834,35.6192,-77.3975,4,Full postal-code reference,241
+United States,Oregon,Gresham,97030,45.5154,-122.4203,4,Full postal-code reference,242
+United States,New Jersey,Clifton,07011,40.8789,-74.1425,4,Full postal-code reference,243
+Canada,Quebec,Montreal,H1C,45.65687536231884,-73.55830217391305,,Postal-prefix estimate,244
+United States,California,Oxnard,93030,34.2141,-119.175,4,Full postal-code reference,245
+United States,Kansas,Olathe,66062,38.8733,-94.7752,4,Full postal-code reference,246
+United States,North Carolina,Cary,27511,35.7641,-78.7786,4,Full postal-code reference,247
+United States,Ohio,Fairfield,45014,39.3266,-84.5479,4,Full postal-code reference,248
+United States,Texas,Odessa,79762,31.889,-102.3548,4,Full postal-code reference,249
+United States,Arizona,Tempe,85281,33.4227,-111.9261,4,Full postal-code reference,250
+United States,Texas,Corpus Christi,78415,27.7262,-97.4078,4,Full postal-code reference,251
+United States,California,Chula Vista,91911,32.6084,-117.0565,4,Full postal-code reference,252
+United States,California,Long Beach,90805,33.8635,-118.1801,4,Full postal-code reference,253
+United States,Maryland,Columbia,21044,39.2141,-76.8788,4,Full postal-code reference,254
+United States,Illinois,Bloomington,61701,40.4783,-88.9893,4,Full postal-code reference,255
+Canada,Ontario,Toronto,M2N,43.76833805555555,-79.40840824074074,,Postal-prefix estimate,256
+United States,Texas,Garland,75043,32.8565,-96.5999,4,Full postal-code reference,257
+United States,Florida,Boca Raton,33433,26.3464,-80.1564,4,Full postal-code reference,258
+United States,Texas,Houston,77041,29.8602,-95.5817,4,Full postal-code reference,259
+United States,Texas,Mesquite,75150,32.8154,-96.6307,4,Full postal-code reference,260
+United States,North Carolina,Fayetteville,28314,35.0583,-79.008,4,Full postal-code reference,261
+United States,Tennessee,Clarksville,37042,36.5853,-87.4186,4,Full postal-code reference,262
+United States,Florida,Boynton Beach,33437,26.5312,-80.1418,4,Full postal-code reference,263
+United States,Nevada,Reno,89502,39.4972,-119.7764,4,Full postal-code reference,264
+United States,Illinois,Evanston,60201,42.0546,-87.6943,4,Full postal-code reference,265
+United States,North Carolina,Durham,27707,35.9631,-78.9315,4,Full postal-code reference,266
+Canada,Alberta,Calgary,T1Y,51.08114399656947,-113.95969125214408,,Postal-prefix estimate,267
+Canada,Alberta,Edmonton,T5A,53.59526900647948,-113.41674352051837,,Postal-prefix estimate,268
+United States,Indiana,Indianapolis,46203,39.743,-86.1179,4,Full postal-code reference,269
+United States,North Carolina,Jacksonville,28540,34.7375,-77.4628,4,Full postal-code reference,270
+United States,California,Manteca,95336,37.8134,-121.2132,4,Full postal-code reference,271
+United States,California,Pasadena,91104,34.1678,-118.1261,4,Full postal-code reference,272
+United States,Washington,Edmonds,98026,47.8353,-122.327,4,Full postal-code reference,273
+United States,New York,Mount Vernon,10550,40.9079,-73.838,4,Full postal-code reference,274
+United States,Massachusetts,Everett,02149,42.4112,-71.0514,4,Full postal-code reference,275
+United States,New Hampshire,Concord,03301,43.2185,-71.5277,4,Full postal-code reference,276
+United States,Ohio,Parma,44134,41.3853,-81.7044,4,Full postal-code reference,277
+United States,Texas,Beaumont,77705,30.0211,-94.1157,4,Full postal-code reference,278
+United States,Alabama,Montgomery,36116,32.3129,-86.2421,4,Full postal-code reference,279
+United States,Arkansas,Texarkana,71854,33.431,-93.8765,4,Full postal-code reference,280
+United States,California,Lakewood,90712,33.8512,-118.1457,4,Full postal-code reference,281
+Canada,British Columbia,Vancouver,V6G,49.28884572192513,-123.13562192513369,,Postal-prefix estimate,282
+United States,Virginia,Newport News,23602,37.1132,-76.5179,4,Full postal-code reference,283
+United States,California,Rancho Cucamonga,91730,34.107,-117.5941,4,Full postal-code reference,284
+United States,South Carolina,Rock Hill,29730,34.9151,-81.0129,4,Full postal-code reference,285
+United States,Florida,Fort Lauderdale,33311,26.1421,-80.1728,4,Full postal-code reference,286
+United States,Kansas,Garden City,67846,37.9769,-100.8621,4,Full postal-code reference,287
+United States,Indiana,Columbus,47201,39.2055,-85.9317,4,Full postal-code reference,288
+United States,Rhode Island,Cranston,02920,41.7716,-71.4659,4,Full postal-code reference,289
+United States,Ohio,Lorain,44052,41.4578,-82.171,4,Full postal-code reference,290
+United States,Arizona,Avondale,85323,33.4321,-112.3438,4,Full postal-code reference,291
+United States,Ohio,Mason,45040,39.3357,-84.3149,4,Full postal-code reference,292
+United States,New Jersey,Orange,07050,40.7692,-74.2355,4,Full postal-code reference,293
+United States,Oregon,Portland,97206,45.484,-122.5973,4,Full postal-code reference,294
+United States,Ohio,Medina,44256,41.1404,-81.8584,4,Full postal-code reference,295
+United States,Texas,Irving,75061,32.8267,-96.9633,4,Full postal-code reference,296
+United States,Tennessee,Nashville,37211,36.0725,-86.724,4,Full postal-code reference,297
+United States,Wisconsin,Wausau,54401,44.9654,-89.7066,4,Full postal-code reference,298
+United States,California,Redding,96003,40.6278,-122.353,4,Full postal-code reference,299
+United States,Pennsylvania,Reading,19601,40.3466,-75.9351,4,Full postal-code reference,300
+United States,Wisconsin,Madison,53711,43.0356,-89.4526,4,Full postal-code reference,301
+United States,Texas,Carrollton,75007,33.0033,-96.882,4,Full postal-code reference,302
+United States,Texas,Pasadena,77506,29.7009,-95.1989,4,Full postal-code reference,303
+United States,Tennessee,Johnson City,37604,36.3107,-82.381,4,Full postal-code reference,304
+United States,Kansas,Manhattan,66502,39.1938,-96.5858,4,Full postal-code reference,305
+United States,Minnesota,Moorhead,56560,46.8677,-96.7572,4,Full postal-code reference,306
+United States,Texas,Cedar Hill,75104,32.5885,-96.9438,4,Full postal-code reference,307
+United States,Illinois,Des Plaines,60016,42.0467,-87.8859,4,Full postal-code reference,308
+United States,Wisconsin,Franklin,53132,42.9017,-88.0086,4,Full postal-code reference,309
+United States,Utah,Provo,84604,40.2607,-111.6549,4,Full postal-code reference,310
+United States,Delaware,Wilmington,19805,39.7434,-75.5827,4,Full postal-code reference,311
+United States,Utah,Salt Lake City,84106,40.7056,-111.8548,4,Full postal-code reference,312
+United States,Minnesota,Coon Rapids,55433,45.1643,-93.3193,4,Full postal-code reference,313
+United States,Louisiana,Monroe,71203,32.553,-92.0422,4,Full postal-code reference,314
+United States,Illinois,Bolingbrook,60440,41.6976,-88.0873,4,Full postal-code reference,315
+United States,California,Sacramento,95823,38.4797,-121.4438,4,Full postal-code reference,316
+United States,Missouri,Saint Louis,63116,38.5814,-90.2625,4,Full postal-code reference,317
+Canada,Newfoundland and Labrador,St. John's,A0A,47.508364150943386,-53.09012547169813,,Postal-prefix estimate,318
+United States,Rhode Island,Woonsocket,02895,41.9846,-71.5194,4,Full postal-code reference,319
+United States,California,Brentwood,94513,37.9324,-121.6894,4,Full postal-code reference,320
+United States,New York,Utica,13501,43.0871,-75.2315,4,Full postal-code reference,321
+United States,Oregon,Tigard,97224,45.4094,-122.8014,4,Full postal-code reference,322
+United States,New York,Freeport,11520,40.6536,-73.5866,4,Full postal-code reference,323
+United States,Illinois,Skokie,60076,42.0362,-87.7328,4,Full postal-code reference,324
+United States,Florida,Orlando,32839,28.4871,-81.4082,4,Full postal-code reference,325
+United States,Maryland,Clinton,20735,38.7549,-76.9026,4,Full postal-code reference,326
+United States,Georgia,Sandy Springs,30328,33.9335,-84.3958,4,Full postal-code reference,327
+Canada,New Brunswick,Moncton,E1A,46.09763752093803,-64.738052372976,,Postal-prefix estimate,328
+United States,Oklahoma,Oklahoma City,73120,35.5835,-97.5638,4,Full postal-code reference,329
+Canada,British Columbia,Vancouver,V6B,49.2794671875,-123.11248390625,,Postal-prefix estimate,330
+United States,Arizona,Gilbert,85234,33.3527,-111.7809,4,Full postal-code reference,331
+United States,Washington,Olympia,98502,47.1043,-123.0552,4,Full postal-code reference,332
+United States,Arizona,Mesa,85204,33.3992,-111.7896,4,Full postal-code reference,333
+United States,Idaho,Caldwell,83605,43.6627,-116.7,4,Full postal-code reference,334
+United States,Ohio,Marion,43302,40.5876,-83.1271,4,Full postal-code reference,335
+United States,Alabama,Florence,35630,34.8305,-87.656,4,Full postal-code reference,336
+United States,Tennessee,Columbia,38401,35.6156,-87.038,4,Full postal-code reference,337
+United States,Texas,Grand Prairie,75051,32.7115,-97.0069,4,Full postal-code reference,338
+United States,Colorado,Thornton,80229,39.8671,-104.9227,4,Full postal-code reference,339
+Canada,British Columbia,Vancouver,V5K,49.279338621586476,-123.04104694408323,,Postal-prefix estimate,340
+United States,Texas,Port Arthur,77642,29.9212,-93.927,4,Full postal-code reference,341
+United States,Colorado,Colorado Springs,80906,38.7902,-104.8199,4,Full postal-code reference,342
+United States,Massachusetts,Beverly,01915,42.5608,-70.8759,4,Full postal-code reference,343
+United States,California,Anaheim,92804,33.8186,-117.9729,4,Full postal-code reference,344
+United States,Illinois,Saint Charles,60174,41.9194,-88.307,4,Full postal-code reference,345
+United States,Ohio,Kent,44240,41.1449,-81.3498,4,Full postal-code reference,346
+United States,Minnesota,Cottage Grove,55016,44.8308,-92.9393,4,Full postal-code reference,347
+Canada,Quebec,Quebec City,G1B,46.89478991869919,-71.21871804878049,,Postal-prefix estimate,348
+United States,Michigan,Taylor,48180,42.2317,-83.2673,4,Full postal-code reference,349
+Canada,Prince Edward Island,Charlottetown,C0A,46.252852564102554,-63.011646153846144,,Postal-prefix estimate,350
+United States,Rhode Island,Providence,02908,41.8383,-71.4377,4,Full postal-code reference,351
+United States,Texas,Baytown,77520,29.7461,-94.9653,4,Full postal-code reference,352
+United States,Minnesota,Woodbury,55125,44.9197,-92.9439,4,Full postal-code reference,353
+United States,Illinois,Park Ridge,60068,42.0122,-87.8417,4,Full postal-code reference,354
+United States,Tennessee,Bartlett,38134,35.1845,-89.8574,4,Full postal-code reference,355
+United States,Montana,Bozeman,59715,45.6693,-111.0431,4,Full postal-code reference,356
+United States,Florida,West Palm Beach,33407,26.7492,-80.0725,4,Full postal-code reference,357
+United States,New York,Rome,13440,43.2193,-75.4498,4,Full postal-code reference,358
+United States,Virginia,Suffolk,23434,36.7304,-76.5931,4,Full postal-code reference,359
+United States,Wisconsin,Kenosha,53142,42.556,-87.8705,4,Full postal-code reference,360
+United States,New Jersey,Perth Amboy,08861,40.5176,-74.2754,4,Full postal-code reference,361
+United States,Arkansas,Hot Springs,71901,34.5268,-92.9587,4,Full postal-code reference,362
+United States,New Mexico,Las Cruces,88001,32.2901,-106.7539,4,Full postal-code reference,363
+United States,Michigan,Sterling Heights,48310,42.5648,-83.0701,4,Full postal-code reference,364
+United States,Massachusetts,Leominster,01453,42.5274,-71.7563,4,Full postal-code reference,365
+United States,Pennsylvania,Altoona,16602,40.5052,-78.3905,4,Full postal-code reference,366
+United States,Texas,Coppell,75019,32.9673,-96.9805,4,Full postal-code reference,367
+United States,Pennsylvania,Bethlehem,18018,40.6278,-75.3928,4,Full postal-code reference,368
+United States,Indiana,New Castle,47362,39.9208,-85.3663,4,Full postal-code reference,369
+United States,Florida,Plantation,33317,26.1122,-80.2264,4,Full postal-code reference,370
+United States,California,Chico,95928,39.7224,-121.8113,4,Full postal-code reference,371
+United States,Utah,Lehi,84043,40.3958,-111.8506,4,Full postal-code reference,372
+United States,Alabama,Auburn,36830,32.5475,-85.4682,4,Full postal-code reference,373
+United States,California,San Bernardino,92404,34.1426,-117.2606,4,Full postal-code reference,374
+United States,California,Lancaster,93534,34.6909,-118.1491,4,Full postal-code reference,375
+United States,Alabama,Huntsville,35810,34.7784,-86.6091,4,Full postal-code reference,376
+United States,California,Thousand Oaks,91360,34.2092,-118.8739,4,Full postal-code reference,377
+United States,South Carolina,Florence,29501,34.1838,-79.7728,4,Full postal-code reference,378
+United States,Washington,Covington,98042,47.368,-122.1206,4,Full postal-code reference,379
+United States,Florida,Coral Springs,33065,26.2729,-80.2603,4,Full postal-code reference,380
+United States,Florida,Miami,33142,25.813,-80.232,4,Full postal-code reference,381
+United States,Illinois,Normal,61761,40.5124,-88.9883,4,Full postal-code reference,382
+United States,Michigan,Lansing,48911,42.6797,-84.5772,4,Full postal-code reference,383
+United States,Washington,Spokane,99207,47.6977,-117.3746,4,Full postal-code reference,384
+United States,Connecticut,Norwich,06360,41.5371,-72.0849,4,Full postal-code reference,385
+United States,Nebraska,Norfolk,68701,42.0329,-97.4229,4,Full postal-code reference,386
+United States,New Mexico,Farmington,87401,36.7412,-108.1797,4,Full postal-code reference,387
+United States,Texas,Mcallen,78501,26.2154,-98.2359,4,Full postal-code reference,388
+United States,Indiana,New Albany,47150,38.3089,-85.8221,4,Full postal-code reference,389
+United States,California,Santa Maria,93454,34.9545,-120.4325,4,Full postal-code reference,390
+United States,Florida,Daytona Beach,32114,29.2012,-81.0371,4,Full postal-code reference,391
+United States,District of Columbia,Washington,20016,38.9381,-77.086,4,Full postal-code reference,392
+United States,Ohio,Troy,45373,40.0374,-84.2032,4,Full postal-code reference,393
+United States,Illinois,Tinley Park,60477,41.5825,-87.805,4,Full postal-code reference,394
+United States,Texas,Allen,75002,33.0934,-96.6454,4,Full postal-code reference,395
+United States,Ohio,Cuyahoga Falls,44221,41.1401,-81.479,4,Full postal-code reference,396
+United States,California,Camarillo,93010,34.2313,-119.0464,4,Full postal-code reference,397
+United States,North Carolina,Wilson,27893,35.727,-77.9227,4,Full postal-code reference,398
+United States,Illinois,Frankfort,60423,41.5094,-87.8248,4,Full postal-code reference,399
+United States,Kansas,Wichita,67212,37.7007,-97.4383,4,Full postal-code reference,400
+United States,Texas,Haltom City,76117,32.8087,-97.2709,4,Full postal-code reference,401
+United States,Connecticut,Manchester,06040,41.7777,-72.5244,4,Full postal-code reference,402
+United States,New Jersey,Paterson,07501,40.9143,-74.1671,4,Full postal-code reference,403
+United States,Idaho,Pocatello,83201,42.8876,-112.4381,4,Full postal-code reference,404
+United States,Maine,Lewiston,04240,44.0985,-70.1916,4,Full postal-code reference,405
+United States,Arizona,Peoria,85345,33.5761,-112.2344,1,Full postal-code reference,406
+United States,Utah,Layton,84041,41.0879,-111.9704,4,Full postal-code reference,407
+United States,Georgia,East Point,30344,33.6919,-84.448,4,Full postal-code reference,408
+United States,Georgia,Smyrna,30080,33.8796,-84.5023,4,Full postal-code reference,409
+United States,Illinois,Carol Stream,60188,41.9178,-88.137,4,Full postal-code reference,410
+United States,Massachusetts,Holyoke,01040,42.202,-72.6262,4,Full postal-code reference,411
+United States,New Jersey,Vineland,08360,39.4818,-75.0091,4,Full postal-code reference,412
+United States,Texas,Amarillo,79109,35.1663,-101.8868,4,Full postal-code reference,413
+United States,California,Bakersfield,93309,35.3384,-119.0627,4,Full postal-code reference,414
+United States,Florida,Port Saint Lucie,34952,27.2889,-80.298,4,Full postal-code reference,415
+United States,Illinois,Highland Park,60035,42.1794,-87.8059,4,Full postal-code reference,416
+United States,Indiana,South Bend,46614,41.6255,-86.2433,4,Full postal-code reference,417
+United States,Mississippi,Hattiesburg,39401,31.3146,-89.3065,4,Full postal-code reference,418
+United States,Missouri,Kirkwood,63122,38.5781,-90.4256,1,Full postal-code reference,419
+United States,Idaho,Boise,83704,43.633,-116.2951,4,Full postal-code reference,420
+United States,Oregon,Redmond,97756,44.2767,-121.1896,4,Full postal-code reference,421
+United States,Minnesota,Eagan,55122,44.786,-93.2202,1,Full postal-code reference,422
+United States,California,Yucaipa,92399,34.0282,-117.0489,4,Full postal-code reference,423
+United States,Massachusetts,New Bedford,02740,41.6347,-70.9372,4,Full postal-code reference,424
+United States,Kentucky,Florence,41042,38.9941,-84.642,4,Full postal-code reference,425
+United States,Pennsylvania,Allentown,18103,40.5891,-75.4645,4,Full postal-code reference,426
+United States,California,Murrieta,92563,33.569,-117.1783,4,Full postal-code reference,427
+United States,Texas,Bedford,76021,32.8536,-97.1358,4,Full postal-code reference,428
+United States,Michigan,Holland,49423,42.7692,-86.1164,4,Full postal-code reference,429
+United States,Virginia,Charlottesville,22901,38.0936,-78.5611,4,Full postal-code reference,430
+United States,Minnesota,Rochester,55901,44.0496,-92.4896,4,Full postal-code reference,431
+United States,Florida,Tamarac,33319,26.1848,-80.2406,4,Full postal-code reference,432
+United States,California,La Quinta,92253,33.6685,-116.3081,4,Full postal-code reference,433
+United States,California,Redlands,92374,34.065,-117.1672,4,Full postal-code reference,434
+United States,New York,Auburn,13021,42.93,-76.5626,4,Full postal-code reference,435
+United States,South Carolina,North Charleston,29406,32.9352,-80.0325,4,Full postal-code reference,436
+United States,Michigan,Lincoln Park,48146,42.2422,-83.1807,4,Full postal-code reference,437
+United States,Massachusetts,Quincy,02169,42.2491,-70.9978,4,Full postal-code reference,438
+United States,California,Oceanside,92054,33.2072,-117.3573,4,Full postal-code reference,439
+United States,Tennessee,Franklin,37064,35.9328,-86.8788,4,Full postal-code reference,440
+United States,Iowa,Dubuque,52001,42.515,-90.6819,4,Full postal-code reference,441
+United States,Oklahoma,Broken Arrow,74012,36.0447,-95.8079,4,Full postal-code reference,442
+United States,Illinois,Rockford,61107,42.2786,-89.0361,4,Full postal-code reference,443
+United States,Tennessee,Murfreesboro,37130,35.8456,-86.3903,4,Full postal-code reference,444
+United States,New Jersey,Bayonne,07002,40.6664,-74.1192,4,Full postal-code reference,445
+United States,Massachusetts,Cambridge,02138,42.377,-71.1256,4,Full postal-code reference,446
+United States,Illinois,Quincy,62301,39.9307,-91.3763,4,Full postal-code reference,447
+United States,Oregon,Hillsboro,97123,45.4984,-122.957,4,Full postal-code reference,448
+United States,Maryland,Rockville,20852,39.0496,-77.1204,4,Full postal-code reference,449
+United States,Georgia,Warner Robins,31088,32.5934,-83.6416,4,Full postal-code reference,450
+United States,Michigan,Ann Arbor,48104,42.2694,-83.7282,4,Full postal-code reference,451
+United States,California,Santa Barbara,93101,34.4197,-119.7078,4,Full postal-code reference,452
+United States,Indiana,Noblesville,46060,40.0563,-86.0163,4,Full postal-code reference,453
+United States,Michigan,Mount Pleasant,48858,43.6013,-84.7736,4,Full postal-code reference,454
+United States,Illinois,Orland Park,60462,41.6194,-87.8423,4,Full postal-code reference,455
+United States,Nevada,Sparks,89431,39.5473,-119.7556,4,Full postal-code reference,456
+United States,California,Salinas,93905,36.6811,-121.6176,4,Full postal-code reference,457
+United States,Arkansas,Conway,72032,35.0842,-92.4236,4,Full postal-code reference,458
+United States,North Carolina,Monroe,28110,35.0178,-80.5372,4,Full postal-code reference,459
+United States,Vermont,Burlington,05401,44.484,-73.2199,4,Full postal-code reference,460
+United States,Indiana,Lawrence,46226,39.8326,-86.0836,4,Full postal-code reference,461
+United States,Minnesota,Roseville,55113,45.0139,-93.1571,4,Full postal-code reference,462
+United States,Montana,Helena,59601,46.6131,-112.0213,4,Full postal-code reference,463
+United States,Tennessee,Lebanon,37087,36.2098,-86.3024,4,Full postal-code reference,464
+United States,New Mexico,Rio Rancho,87124,35.2493,-106.6818,4,Full postal-code reference,465
+United States,Texas,Frisco,75034,33.1499,-96.8241,4,Full postal-code reference,466
+United States,New Jersey,Morristown,07960,40.7952,-74.4873,4,Full postal-code reference,467
+United States,Tennessee,Jackson,38301,35.6102,-88.814,4,Full postal-code reference,468
+United States,California,Lake Elsinore,92530,33.6598,-117.3485,4,Full postal-code reference,469
+United States,Florida,Pembroke Pines,33024,26.0296,-80.2489,4,Full postal-code reference,470
+United States,Illinois,Champaign,61821,40.1073,-88.2788,4,Full postal-code reference,471
+United States,Michigan,Dearborn,48126,42.3349,-83.1801,4,Full postal-code reference,472
+United States,California,Santa Ana,92704,33.7249,-117.909,4,Full postal-code reference,473
+United States,Florida,Tallahassee,32303,30.4874,-84.3189,4,Full postal-code reference,474
+United States,California,Temecula,92592,33.4983,-117.0958,4,Full postal-code reference,475
+United States,California,Costa Mesa,92627,33.6483,-117.9155,4,Full postal-code reference,476
+United States,Illinois,Glenview,60025,42.0758,-87.8223,4,Full postal-code reference,477
+United States,Arizona,Bullhead City,86442,35.106,-114.5947,4,Full postal-code reference,478
+United States,New York,Lindenhurst,11757,40.6884,-73.3745,4,Full postal-code reference,479
+United States,Wisconsin,Superior,54880,46.7016,-92.0912,4,Full postal-code reference,480
+United States,Ohio,Dublin,43017,40.1093,-83.1146,4,Full postal-code reference,481
+United States,California,Visalia,93277,36.3114,-119.3065,4,Full postal-code reference,482
+United States,Montana,Missoula,59801,46.8563,-114.0252,4,Full postal-code reference,483
+United States,Maryland,Gaithersburg,20877,39.1419,-77.189,4,Full postal-code reference,484
+United States,Washington,Longview,98632,46.1514,-122.9634,4,Full postal-code reference,485
+United States,New Jersey,Westfield,07090,40.6479,-74.3451,4,Full postal-code reference,486
+United States,Mississippi,Gulfport,39503,30.4601,-89.0886,4,Full postal-code reference,487
+United States,New Jersey,Atlantic City,08401,39.3664,-74.4317,4,Full postal-code reference,488
+United States,Arizona,Sierra Vista,85635,31.5365,-110.2666,4,Full postal-code reference,489
+United States,Tennessee,Chattanooga,37421,35.025,-85.1459,4,Full postal-code reference,490
+United States,New Jersey,Belleville,07109,40.7946,-74.1631,4,Full postal-code reference,491
+United States,Wisconsin,La Crosse,54601,43.7989,-91.2175,4,Full postal-code reference,492
+United States,Texas,Round Rock,78664,30.5145,-97.668,4,Full postal-code reference,493
+United States,Massachusetts,Andover,01810,42.6496,-71.1565,4,Full postal-code reference,494
+United States,Connecticut,Milford,06460,41.2175,-73.0549,4,Full postal-code reference,495
+United States,Texas,Harlingen,78550,26.1951,-97.689,4,Full postal-code reference,496
+United States,California,Redwood City,94061,37.4647,-122.2304,4,Full postal-code reference,497
+United States,Texas,Bryan,77803,30.6913,-96.3714,4,Full postal-code reference,498
+United States,Massachusetts,Malden,02148,42.4291,-71.0605,4,Full postal-code reference,499
+United States,Colorado,Littleton,80122,39.5814,-104.9557,4,Full postal-code reference,500
+United States,Missouri,Saint Peters,63376,38.7802,-90.6228,4,Full postal-code reference,501
+United States,Oklahoma,Norman,73071,35.233,-97.4067,4,Full postal-code reference,502
+United States,Texas,Grapevine,76051,32.9328,-97.0808,4,Full postal-code reference,503
+United States,North Carolina,Gastonia,28052,35.2449,-81.2194,4,Full postal-code reference,504
+Canada,British Columbia,Vancouver,V6E,49.283862464986,-123.12759103641457,,Postal-prefix estimate,505
+United States,Missouri,Jefferson City,65109,38.5773,-92.2443,4,Full postal-code reference,506
+United States,California,San Clemente,92672,33.4361,-117.6231,4,Full postal-code reference,507
+United States,California,Hesperia,92345,34.4222,-117.3025,4,Full postal-code reference,508
+United States,Nevada,Henderson,89015,36.0357,-114.9718,4,Full postal-code reference,509
+United States,California,Encinitas,92024,33.0535,-117.2689,4,Full postal-code reference,510
+United States,Virginia,Salem,24153,37.2853,-80.0692,4,Full postal-code reference,511
+United States,Arizona,Yuma,85364,32.7015,-114.6424,4,Full postal-code reference,512
+United States,Connecticut,Waterbury,06708,41.5511,-73.0645,4,Full postal-code reference,513
+United States,Rhode Island,Warwick,02886,41.7026,-71.4476,4,Full postal-code reference,514
+United States,New Jersey,Passaic,07055,40.8601,-74.1283,4,Full postal-code reference,515
+United States,Colorado,Parker,80134,39.4895,-104.8447,4,Full postal-code reference,516
+United States,Colorado,Longmont,80501,40.1779,-105.1009,4,Full postal-code reference,517
+United States,Pennsylvania,York,17403,39.9494,-76.713,4,Full postal-code reference,518
+United States,Michigan,Roseville,48066,42.5034,-82.9387,4,Full postal-code reference,519
+United States,Colorado,Broomfield,80020,39.9245,-105.0609,4,Full postal-code reference,520
+Canada,Manitoba,Winnipeg,R0H,50.11244,-98.45272666666666,,Postal-prefix estimate,521
+United States,Kentucky,Bowling Green,42104,36.9375,-86.4481,4,Full postal-code reference,522
+United States,Florida,Pensacola,32503,30.4564,-87.2104,4,Full postal-code reference,523
+United States,Tennessee,Hendersonville,37075,36.3054,-86.6072,4,Full postal-code reference,524
+United States,Wisconsin,West Allis,53214,43.0215,-88.0176,4,Full postal-code reference,525
+United States,Louisiana,Kenner,70065,30.0252,-90.2522,4,Full postal-code reference,526
+United States,California,Davis,95616,38.5538,-121.7418,4,Full postal-code reference,527
+United States,Texas,Edinburg,78539,26.2792,-98.1832,4,Full postal-code reference,528
+United States,Colorado,Fort Collins,80525,40.5384,-105.0547,4,Full postal-code reference,529
+United States,Texas,Pharr,78577,26.1771,-98.187,4,Full postal-code reference,530
+United States,Wisconsin,Sheboygan,53081,43.741,-87.7247,4,Full postal-code reference,531
+United States,Colorado,Englewood,80112,39.5805,-104.9011,4,Full postal-code reference,532
+United States,Texas,Waco,76706,31.5171,-97.1198,4,Full postal-code reference,533
+United States,Wisconsin,Waukesha,53186,42.9993,-88.2196,4,Full postal-code reference,534
+United States,Kentucky,Georgetown,40324,38.2117,-84.5562,4,Full postal-code reference,535
+United States,Iowa,Cedar Rapids,52402,42.0188,-91.6612,4,Full postal-code reference,536
+United States,Minnesota,Saint Paul,55106,44.9684,-93.0488,4,Full postal-code reference,537
+United States,North Carolina,Thomasville,27360,35.8713,-80.0913,4,Full postal-code reference,538
+United States,Illinois,Wheeling,60090,42.134,-87.9341,4,Full postal-code reference,539
+United States,California,Stockton,95207,38.0024,-121.3238,4,Full postal-code reference,540
+United States,Colorado,Arvada,80004,39.8141,-105.1177,4,Full postal-code reference,541
+United States,Idaho,Twin Falls,83301,42.5565,-114.4693,4,Full postal-code reference,542
+United States,California,Laguna Niguel,92677,33.5145,-117.7084,4,Full postal-code reference,543
+United States,Massachusetts,Marlborough,01752,42.3509,-71.5434,4,Full postal-code reference,544
+United States,Washington,Redmond,98052,47.6718,-122.1232,4,Full postal-code reference,545
+United States,California,Woodland,95695,38.6816,-121.8052,4,Full postal-code reference,546
+Canada,Saskatchewan,Regina,S0G,50.541154375,-104.06759187500002,,Postal-prefix estimate,547
+United States,Iowa,Iowa City,52240,41.6355,-91.5016,4,Full postal-code reference,548
+United States,Indiana,La Porte,46350,41.5994,-86.7077,4,Full postal-code reference,549
+United States,California,Lake Forest,92630,33.6437,-117.6868,4,Full postal-code reference,550
+United States,Florida,Coral Gables,33134,25.768,-80.2714,4,Full postal-code reference,551
+United States,Texas,The Colony,75056,33.094,-96.8836,4,Full postal-code reference,552
+United States,Washington,Marysville,98270,48.0656,-122.1562,4,Full postal-code reference,553
+United States,Texas,La Porte,77571,29.6884,-95.0513,4,Full postal-code reference,554
+Canada,Manitoba,Winnipeg,R3R,49.85718615384616,-97.28564013986013,,Postal-prefix estimate,555
+United States,New Jersey,Bridgeton,08302,39.3762,-75.1617,4,Full postal-code reference,556
+United States,California,San Luis Obispo,93405,35.2901,-120.6817,4,Full postal-code reference,557
+United States,Texas,Conroe,77301,30.3125,-95.4527,4,Full postal-code reference,558
+United States,Iowa,Urbandale,50322,41.6295,-93.723,4,Full postal-code reference,559
+United States,Oregon,Eugene,97405,44.0185,-123.0998,4,Full postal-code reference,560
+United States,Wyoming,Cheyenne,82001,41.1437,-104.7962,4,Full postal-code reference,561
+United States,Illinois,Arlington Heights,60004,42.112,-87.9792,4,Full postal-code reference,562
+United States,Washington,Auburn,98002,47.305,-122.2067,4,Full postal-code reference,563
+United States,Washington,Vancouver,98661,45.6418,-122.6251,4,Full postal-code reference,564
+United States,North Carolina,Burlington,27217,36.1288,-79.4114,4,Full postal-code reference,565
+United States,New Mexico,Carlsbad,88220,32.4119,-104.2395,4,Full postal-code reference,566
+United States,Oklahoma,Edmond,73034,35.6665,-97.4798,4,Full postal-code reference,567
+United States,California,Montebello,90640,34.0133,-118.113,4,Full postal-code reference,568
+United States,Connecticut,Shelton,06484,41.3047,-73.1294,4,Full postal-code reference,569
+United States,New Jersey,East Orange,07017,40.7696,-74.2077,4,Full postal-code reference,570
+United States,Kansas,Overland Park,66212,38.9568,-94.6832,4,Full postal-code reference,571
+United States,North Carolina,Hickory,28601,35.7576,-81.3289,4,Full postal-code reference,572
+United States,Texas,San Angelo,76903,31.4707,-100.4386,4,Full postal-code reference,573
+United States,Iowa,Marion,52302,42.0411,-91.5941,4,Full postal-code reference,574
+United States,California,Morgan Hill,95037,37.1353,-121.6501,4,Full postal-code reference,575
+United States,Kentucky,Murray,42071,36.6099,-88.3032,4,Full postal-code reference,576
+United States,California,Antioch,94509,37.9939,-121.8089,4,Full postal-code reference,577
+United States,Texas,Richardson,75080,32.966,-96.7452,4,Full postal-code reference,578
+United States,Nebraska,Fremont,68025,41.4416,-96.4945,4,Full postal-code reference,579
+United States,Indiana,Greenwood,46142,39.6224,-86.149,4,Full postal-code reference,580
+United States,Florida,Homestead,33030,25.4766,-80.4839,4,Full postal-code reference,581
+United States,California,Torrance,90503,33.8397,-118.3542,4,Full postal-code reference,582
+United States,California,Apple Valley,92307,34.5291,-117.2132,4,Full postal-code reference,583
+United States,North Carolina,Goldsboro,27534,35.3664,-77.9221,4,Full postal-code reference,584
+United States,New Hampshire,Nashua,03060,42.7564,-71.4667,4,Full postal-code reference,585
+United States,Texas,Deer Park,77536,29.6826,-95.1222,4,Full postal-code reference,586
+United States,Alabama,Tuscaloosa,35401,33.1969,-87.5627,4,Full postal-code reference,587
+United States,Florida,Ormond Beach,32174,29.2833,-81.0882,4,Full postal-code reference,588
+United States,Texas,Keller,76248,32.9276,-97.2489,4,Full postal-code reference,589
+United States,Alabama,Hoover,35244,33.3538,-86.8254,4,Full postal-code reference,590
+United States,Oklahoma,Muskogee,74403,35.7411,-95.3449,4,Full postal-code reference,591
+United States,Arkansas,Rogers,72756,36.3363,-94.1148,4,Full postal-code reference,592
+United States,Florida,Pompano Beach,33068,26.216,-80.2205,4,Full postal-code reference,593
+United States,California,Fairfield,94533,38.2671,-122.0357,4,Full postal-code reference,594
+United States,Michigan,Oak Park,48237,42.4662,-83.184,4,Full postal-code reference,595
+United States,New Jersey,New Brunswick,08901,40.4891,-74.4482,4,Full postal-code reference,596
+United States,Colorado,Greeley,80634,40.4109,-104.7541,4,Full postal-code reference,597
+United States,Florida,Kissimmee,34741,28.3051,-81.4242,4,Full postal-code reference,598
+United States,Florida,Sanford,32771,28.8013,-81.285,4,Full postal-code reference,599
+United States,Illinois,Danville,61832,40.137,-87.6217,4,Full postal-code reference,600
+United States,California,Westminster,92683,33.7524,-117.9939,4,Full postal-code reference,601
+United States,Texas,Mansfield,76063,32.5773,-97.1416,4,Full postal-code reference,602
+United States,North Dakota,Fargo,58103,46.8564,-96.8123,4,Full postal-code reference,603
+United States,Maryland,Laurel,20707,39.1077,-76.872,4,Full postal-code reference,604
+United States,Washington,Bellingham,98226,48.7974,-122.4448,4,Full postal-code reference,605
+United States,Texas,Missouri City,77489,29.5962,-95.5115,4,Full postal-code reference,606
+United States,Texas,Pearland,77581,29.5617,-95.2721,4,Full postal-code reference,607
+United States,Michigan,Rochester Hills,48307,42.6593,-83.1225,4,Full postal-code reference,608
+United States,Minnesota,Maple Grove,55369,45.1284,-93.4589,4,Full postal-code reference,609
+United States,North Carolina,Chapel Hill,27514,35.9203,-79.0372,4,Full postal-code reference,610
+United States,Colorado,Commerce City,80022,39.8259,-104.9113,4,Full postal-code reference,611
+United States,West Virginia,Wheeling,26003,40.1027,-80.6476,4,Full postal-code reference,612
+United States,California,Citrus Heights,95610,38.6946,-121.2692,4,Full postal-code reference,613
+United States,California,Pico Rivera,90660,33.9886,-118.0883,4,Full postal-code reference,614
+United States,California,San Mateo,94403,37.5395,-122.2998,4,Full postal-code reference,615
+United States,Iowa,Waterloo,50701,42.4778,-92.3661,4,Full postal-code reference,616
+United States,Indiana,Elkhart,46514,41.7101,-85.9729,4,Full postal-code reference,617
+United States,Colorado,Loveland,80538,40.4262,-105.09,4,Full postal-code reference,618
+United States,California,Inglewood,90301,33.955,-118.3556,4,Full postal-code reference,619
+United States,California,La Mesa,91941,32.7604,-117.0115,4,Full postal-code reference,620
+United States,California,Modesto,95351,37.6236,-120.9966,4,Full postal-code reference,621
+United States,Missouri,Independence,64055,39.0545,-94.4039,4,Full postal-code reference,622
+United States,New Mexico,Clovis,88101,34.4126,-103.2214,4,Full postal-code reference,623
+United States,Nebraska,Grand Island,68801,40.9219,-98.3411,4,Full postal-code reference,624
+United States,Florida,Melbourne,32935,28.1384,-80.6524,4,Full postal-code reference,625
+United States,Arkansas,Pine Bluff,71603,34.1897,-92.0448,4,Full postal-code reference,626
+United States,Minnesota,Saint Cloud,56301,45.541,-94.1819,4,Full postal-code reference,627
+United States,Florida,Miramar,33023,25.9894,-80.2153,4,Full postal-code reference,628
+United States,Ohio,Mentor,44060,41.6895,-81.3421,4,Full postal-code reference,629
+United States,Idaho,Meridian,83642,43.615,-116.3975,4,Full postal-code reference,630
+United States,California,Danville,94526,37.814,-121.966,4,Full postal-code reference,631
+United States,Arkansas,Springdale,72762,36.1835,-94.1762,4,Full postal-code reference,632
+United States,California,Sunnyvale,94086,37.3764,-122.0238,4,Full postal-code reference,633
+United States,California,Coachella,92236,33.675,-116.1772,4,Full postal-code reference,634
+United States,South Dakota,Aberdeen,57401,45.4661,-98.4856,4,Full postal-code reference,635
+United States,Florida,Jupiter,33458,26.9339,-80.1201,4,Full postal-code reference,636
+United States,California,Dublin,94568,37.7166,-121.9226,4,Full postal-code reference,637
+United States,Ohio,Grove City,43123,39.8814,-83.0839,4,Full postal-code reference,638
+United States,Ohio,Elyria,44035,41.3724,-82.1051,4,Full postal-code reference,639
+United States,Maryland,Hagerstown,21740,39.632,-77.7372,4,Full postal-code reference,640
+United States,Michigan,Saginaw,48601,43.4047,-83.9156,4,Full postal-code reference,641
+United States,Texas,College Station,77840,30.6045,-96.3123,4,Full postal-code reference,642
+United States,California,Ontario,91761,34.0316,-117.6187,4,Full postal-code reference,643
+United States,Washington,Renton,98059,47.5058,-122.1157,4,Full postal-code reference,644
+United States,Michigan,Canton,48187,42.332,-83.4695,4,Full postal-code reference,645
+United States,South Carolina,Summerville,29483,33.028,-80.1739,4,Full postal-code reference,646
+United States,Missouri,Gladstone,64118,39.2133,-94.5743,1,Full postal-code reference,647
+United States,California,Whittier,90604,33.9299,-118.0121,4,Full postal-code reference,648
+United States,Texas,Abilene,79605,32.432,-99.7724,4,Full postal-code reference,649
+United States,Iowa,Burlington,52601,40.8087,-91.117,4,Full postal-code reference,650
+United States,Illinois,Palatine,60067,42.1139,-88.0429,4,Full postal-code reference,651
+United States,Illinois,Oak Park,60302,41.8925,-87.7895,4,Full postal-code reference,652
+United States,Florida,Port Orange,32127,29.1383,-80.9956,4,Full postal-code reference,653
+United States,Connecticut,Danbury,06810,41.3917,-73.4532,4,Full postal-code reference,654
+United States,Washington,Everett,98208,47.8948,-122.1987,4,Full postal-code reference,655
